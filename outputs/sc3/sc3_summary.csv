@@ -1,0 +1,18 @@
+quantity,count
+records returned by the Scopus query (unique titles),4195
+excluded by SC3,1009
+candidate publications kept by SC3,3186
+  kept by rule: ieee_acm,1996
+  kept by rule: elsevier_journal,360
+  kept by rule: mdpi,340
+  kept by rule: wiley_sage_taylorfrancis_journal,204
+  kept by rule: springer_journal,129
+  kept by rule: spie,47
+  kept by rule: ifac_papersonline,37
+  kept by rule: sae_journal,22
+  kept by rule: asce_transportation_conference,16
+  kept by rule: driving_simulation_association,11
+  kept by rule: pmlr_jmlr,9
+  kept by rule: neurips,6
+  kept by rule: asme_imece,5
+  kept by rule: springer_advanced_robotics,4

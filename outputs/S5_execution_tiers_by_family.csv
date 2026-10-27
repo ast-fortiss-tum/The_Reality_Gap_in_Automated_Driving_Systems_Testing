@@ -1,0 +1,29 @@
+tier,family_label,studies
+Calibrated simulation,Generative content synthesis,29
+Calibrated simulation,Multiple families,7
+Calibrated simulation,Real-equipment integration (ViL/HiL/MR/XiL),4
+Calibrated simulation,Real-world evidence reconstruction,15
+Calibrated simulation,Sensor physics modelling,7
+Calibrated simulation,Traffic/agent behaviour modelling,23
+Fully real,Sensor physics modelling,2
+Fully simulated,Ego policy/control transfer,2
+Fully simulated,Generative content synthesis,3
+Fully simulated,Multiple families,1
+Fully simulated,Real-equipment integration (ViL/HiL/MR/XiL),1
+Fully simulated,Sensor physics modelling,7
+Fully simulated,Traffic/agent behaviour modelling,1
+Multi-component physical integration,Ego policy/control transfer,2
+Multi-component physical integration,Generative content synthesis,1
+Multi-component physical integration,Multiple families,4
+Multi-component physical integration,Real-equipment integration (ViL/HiL/MR/XiL),35
+Multi-component physical integration,Real-world evidence reconstruction,4
+Multi-component physical integration,Sensor physics modelling,1
+Multi-component physical integration,Traffic/agent behaviour modelling,1
+Other profiles,Real-equipment integration (ViL/HiL/MR/XiL),1
+Real-data reuse,Real-world evidence reconstruction,2
+Single-component physical integration,Ego policy/control transfer,4
+Single-component physical integration,Generative content synthesis,3
+Single-component physical integration,Multiple families,3
+Single-component physical integration,Real-equipment integration (ViL/HiL/MR/XiL),9
+Single-component physical integration,Real-world evidence reconstruction,2
+Single-component physical integration,Sensor physics modelling,5

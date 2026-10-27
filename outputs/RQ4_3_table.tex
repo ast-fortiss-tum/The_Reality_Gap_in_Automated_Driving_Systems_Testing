@@ -1,0 +1,78 @@
+\begin{table}[tbp]
+\caption{RQ\textsubscript{4.3} systems under test and specific technologies.}
+\label{tab:rq4-3}
+\centering
+\footnotesize
+\setlength{\ResultBarMax}{1.6cm}
+\begin{tabular}{@{}>{\raggedright\arraybackslash}p{\dimexpr0.9\columnwidth-\dimexpr\ResultBarMax+2.3em\relax-2\tabcolsep\relax} p{\dimexpr\ResultBarMax+2.3em\relax}@{}}
+\toprule
+\textbf{System under test} & \textbf{Studies} \\
+\midrule
+\hangindent=1em\hangafter=1 \textbf{No SUT} & \ResultStudies{89}{89} \\ [0.5em]
+% \midrule
+\hangindent=1em\hangafter=1 \textbf{Camera perception} & \ResultStudies{40}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}YOLO-family detector & \ResultStudies{15}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Object detector & \ResultStudies{12}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Segmentation model & \ResultStudies{7}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}BEV-based detector/\hspace{0pt}feature extractor & \ResultStudies{4}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Lane detection & \ResultStudies{3}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}VRU (pedestrian/\hspace{0pt}cyclist) detection \& driver-warning system & \ResultStudies{3}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Faster R-CNN detector & \ResultStudies{2}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}3D human pose estimation & \ResultStudies{1}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}ADAS smart front camera (sensor and embedded software) & \ResultStudies{1}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Depth estimation & \ResultStudies{1}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Object detection + tracking & \ResultStudies{1}{89} \\ [0.5em]
+% \midrule
+\hangindent=1em\hangafter=1 \textbf{Full ADS} & \ResultStudies{37}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Modular & \ResultStudies{29}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}End-to-end & \ResultStudies{8}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Black-box AV (architecture undisclosed) & \ResultStudies{1}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Simplified driving function with PID vehicle controller (path following, TTC-based braking) & \ResultStudies{1}{89} \\ [0.5em]
+% \midrule
+\hangindent=1em\hangafter=1 \textbf{Ego-vehicle control/\hspace{0pt}actuation} & \ResultStudies{36}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Lane keeping/\hspace{0pt}changing control & \ResultStudies{11}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Adaptive cruise control & \ResultStudies{10}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Automatic emergency braking & \ResultStudies{6}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Steering control & \ResultStudies{4}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Vehicle control stack/\hspace{0pt}ECU & \ResultStudies{3}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Model predictive control & \ResultStudies{2}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Ground-robot dynamics control system & \ResultStudies{1}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Integrated trajectory-planner + vehicle controller & \ResultStudies{1}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}PID trajectory-tracking controller & \ResultStudies{1}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Rule-based reactive control policy & \ResultStudies{1}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Waypoint-following control & \ResultStudies{1}{89} \\ [0.5em]
+% \midrule
+\hangindent=1em\hangafter=1 \textbf{Planning/\hspace{0pt}trajectory prediction} & \ResultStudies{18}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Path/\hspace{0pt}motion planning & \ResultStudies{14}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Decision-making/\hspace{0pt}planning policy & \ResultStudies{3}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Trajectory/\hspace{0pt}motion prediction & \ResultStudies{2}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Automated valet-parking planner & \ResultStudies{1}{89} \\ [0.5em]
+% \midrule
+\hangindent=1em\hangafter=1 \textbf{LiDAR perception} & \ResultStudies{17}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}3D object detection & \ResultStudies{7}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}PV-RCNN & \ResultStudies{3}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}BEV feature extractor (LiDAR/\hspace{0pt}camera fusion) & \ResultStudies{2}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}LiDAR object detection + tracking & \ResultStudies{2}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}PointPillars & \ResultStudies{2}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Sensor simulation/\hspace{0pt}generative model & \ResultStudies{2}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}LiDAR intensity simulation model & \ResultStudies{1}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Point-cloud segmentation & \ResultStudies{1}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}PointNet(++) & \ResultStudies{1}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}PolarNet & \ResultStudies{1}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}RangeNet++ & \ResultStudies{1}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}VoxelNet & \ResultStudies{1}{89} \\ [0.5em]
+% \midrule
+\hangindent=1em\hangafter=1 \textbf{Radar perception} & \ResultStudies{7}{89} \\ [0.5em]
+% \midrule
+\hangindent=1em\hangafter=1 \textbf{Localization} & \ResultStudies{5}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}Modular-ADS localization component & \ResultStudies{2}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}GNSS/\hspace{0pt}GPS-based localization & \ResultStudies{1}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}NDT-based mapping/\hspace{0pt}localization & \ResultStudies{1}{89} \\
+\hangindent=2em\hangafter=1\hspace{1em}SLAM-based localization & \ResultStudies{1}{89} \\ [0.5em]
+% \midrule
+\hangindent=1em\hangafter=1 \textbf{LLM/\hspace{0pt}foundation-model reasoning agent} & \ResultStudies{3}{89} \\ [0.5em]
+% \midrule
+\hangindent=1em\hangafter=1 \textbf{Multi-sensor fusion perception/\hspace{0pt}tracking} & \ResultStudies{2}{89} \\
+\bottomrule
+\end{tabular}
+\end{table}

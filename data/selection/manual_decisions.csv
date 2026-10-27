@@ -1,0 +1,7 @@
+title,decision,counterpart_in_coding_table,reason
+Next generation X-in-the-loop validation methodology for automated vehicle systems,dropped_after_reading,,Not relevant after reading the full text
+Parameter Space and Model Regulation Based Robust Scalable and Replicable Lateral Control Design for Autonomous Vehicles,dropped_after_reading,,Not relevant after reading the full text
+ViSTA: A Framework for Virtual Scenario-based Testing of Autonomous Vehicles,dropped_after_reading,,Simulation-only test generation framework; no real-versus-simulated component
+Mixed Reality Environment for Testing Automated Vehicle and Pedestrian Interaction,duplicate_version,"MiRE, A Mixed Reality Environment for Testing of Automated Driving Functions",Conference version of the included MiRE journal paper (the journal version cites it)
+Comparing Offline and Online Testing of Deep Neural Networks: An Autonomous Car Case Study,replaced_by_extended_version,Can Offline Testing of Deep Neural Networks Replace Their Online Testing? => EXTENSION OF Comparing Offline and Online Testing of Deep Neural Networks: An Autonomous Car Case Study,The search retrieved the conference version; the extended journal version is coded
+HGSim: High-fidelity and generalizable simulation frame-work for autonomous driving scenes,title_variant,HGSim: High-fidelity and generalizable simulation framework for autonomous driving scenes,Same paper; the coding table uses a corrected spelling of the Scopus title

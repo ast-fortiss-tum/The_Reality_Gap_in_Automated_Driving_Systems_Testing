@@ -1,0 +1,20 @@
+quantity,count
+records returned by the Scopus query,4195
+excluded by SC3,1009
+candidate publications,3186
+preliminary pool,1112
+  pilot studies,10
+  selected in the first screening (without pilot),91
+  relevance exclusions,999
+  surveys and reviews,12
+removed from the 91 selected studies,6
+  not relevant on closer examination,5
+  conference version of a paper whose journal version was also selected,1
+initial corpus (pilot + selected - removed),95
+remaining for full selection,2074
+  included in full selection,140
+  relevance exclusions in full selection,1894
+  surveys and reviews in full selection,40
+total relevance exclusions (first screening + removed + full selection),2899
+total surveys and reviews,52
+final corpus,235

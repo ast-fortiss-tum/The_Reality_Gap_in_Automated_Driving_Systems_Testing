@@ -1,0 +1,16 @@
+outcome,count
+SC3 candidate publications,3186
+full selection: not included (excluded or survey),1934
+preliminary: excluded (relevance),999
+full selection: included,139
+preliminary: selected and kept,94
+preliminary: excluded (survey / review),12
+"preliminary: selected, dropped after reading",3
+"preliminary: confirmed, never coded",2
+"preliminary: excluded in first pass, included later",1
+"preliminary: selected, merged into the included journal version",1
+"preliminary: selected, replaced by its extended version",1
+"included studies, selection_phase = full",140
+"included studies, selection_phase = pilot",10
+"included studies, selection_phase = preliminary",85
+included studies (rows of primary_studies_coding.csv),235

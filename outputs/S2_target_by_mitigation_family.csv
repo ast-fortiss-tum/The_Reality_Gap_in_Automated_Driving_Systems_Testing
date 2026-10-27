@@ -1,0 +1,13 @@
+what_tag,Generative content synthesis,Real-world evidence reconstruction,Real-equipment integration (ViL/HiL/MR/XiL),Sensor physics modelling,Traffic/agent behaviour modelling,Ego policy/control transfer
+camera perception,25.0,1.0,9.0,5.0,3.0,2.0
+LiDAR perception,2.0,2.0,3.0,13.0,0.0,0.0
+radar perception,0.0,0.0,1.0,5.0,0.0,0.0
+traffic/NPC realism,7.0,8.0,13.0,0.0,21.0,3.0
+test-scenario validity,2.0,3.0,11.0,0.0,1.0,0.0
+crash-scenario validity,0.0,8.0,1.0,0.0,2.0,0.0
+pedestrian/VRU realism,3.0,1.0,3.0,0.0,3.0,0.0
+road/environment realism,0.0,5.0,5.0,0.0,0.0,0.0
+ego-vehicle dynamics/actuation,0.0,1.0,17.0,0.0,1.0,6.0
+SUT behaviour realism,2.0,2.0,14.0,2.0,0.0,0.0
+ADS-policy transfer,3.0,0.0,2.0,0.0,1.0,6.0
+ego localization/pose estimation,1.0,1.0,4.0,1.0,0.0,0.0

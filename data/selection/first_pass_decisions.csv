@@ -1,0 +1,1132 @@
+title,doi,year,first_pass_status
+Attractor Selection Based Limited Feedback Hybrid Precoding for Uplink V2I Communications,10.1109/tvt.2020.2971420,2020,excluded
+A Survey of Robustness and Safety of 2D and 3D Deep Learning Models against Adversarial Attacks \textbar ACM Computing Surveys,10.1145/3636551,,excluded
+A review of generative and non-generative adversarial attack on context-rich images,10.1016/j.engappai.2023.106595,2023,excluded
+The role of perceptual failure and degrading processes in urban traffic accidents: A stochastic computational model for virtual experiments,10.1109/itsc45102.2020.9294498,2020,excluded
+Token Regulated Credit Based Shaper for Time Sensitive Networks,10.1109/cits49457.2020.9232618,2020,excluded
+Towards Deductive Verification of Control Algorithms for Autonomous Marine Vehicles,10.1109/iceccs51672.2020.00020,2020,excluded
+Trajectory Optimization and Situational Analysis Framework for Autonomous Overtaking with Visibility Maximization,10.1109/tiv.2019.2955361,2020,excluded
+Trajectory Planning for Autonomous High-Speed Overtaking in Structured Environments Using Robust MPC,10.1109/tits.2019.2916354,2020,excluded
+TUNERCAR: A Superoptimization Toolchain for Autonomous Racing,10.1109/icra40945.2020.9197080,2020,excluded
+Two-Level Hierarchical Planning in a Known Semi-Structured Environment,10.1109/itsc45102.2020.9294373,2020,excluded
+Localization and Tracking Control Using Hybrid Acoustic-Optical Communication for Autonomous Underwater Vehicles,10.1109/jiot.2020.2995799,2020,excluded
+Evaluation of the Effectiveness of Hydroacoustic Surveys Using MBE for a Autonomous Surface Vehicles,10.1109/fareastcon50210.2020.9271552,2020,excluded
+Erle-copter Simulation using ROS and Gazebo,10.1109/melecon48756.2020.9140476,2020,excluded
+Repeatable Simulation for Highly Automated Driving Development and Testing,10.1109/vtc2020-spring48590.2020.9129208,2020,excluded
+Robust Observer Based Intermittent Forces Estimation for Driver Intervention Identification,10.1109/tvt.2020.2975366,2020,excluded
+Integrating Haptic Signals with V2X-based Safety Systems for Vulnerable Road Users,10.1109/icnc47757.2020.9049723,2020,excluded
+Integrated Framework of Autonomous Vehicle with Traffic Sign Recognition in Simulation Environment,10.1109/eit48999.2020.9208241,2020,excluded
+Digital vehicle radar sensor target simulation,10.1109/i2mtc43012.2020.9129555,2020,excluded
+Evaluating Validity of Synthetic Data in Perception Tasks for Autonomous Vehicles,10.1109/aitest49225.2020.00018,2020,selected_coded
+Development of a Validation Regime for an Autonomous Campus Shuttle,10.1109/southeastcon44009.2020.9249692,2020,excluded
+Enhancing Data-Driven Algorithms for Human Pose Estimation and Action Recognition through Simulation,10.1109/tits.2020.2988504,2020,excluded
+Distributed Control of Cooperative Vehicular Platoon with Nonideal Communication Condition,10.1109/tvt.2020.2997767,2020,excluded
+Deep CNN-Based real-time traffic light detector for self-driving vehicles,10.1109/tmc.2019.2892451,2020,excluded
+Scenario Description Language for Automated Driving Systems: A Two Level Abstraction Approach,10.1109/smc42975.2020.9283417,2020,excluded
+Metamorphic Fuzz Testing of Autonomous Vehicles,10.1145/3387940.3392252,2020,excluded
+"The Double Propeller Ducted-Fan, an UAV for safe Infrastructure inspection and human-interaction",10.1109/etfa46521.2020.9212035,2020,excluded
+Hierarchical evasive path planning using reinforcement learning and model predictive control,10.1109/access.2020.3031037,2020,excluded
+Model predictive path planning based on artificial potential field and its application to autonomous lane change,10.23919/iccas50221.2020.9268380,2020,excluded
+Integration of phase noise into a virtual test driving software to investigate the impact on the radar performance,10.23919/irs48640.2020.9253801,2020,excluded
+Learning Robust Control Policies for End-to-End Autonomous Driving from Data-Driven Simulation,10.1109/lra.2020.2966414,2020,selected_coded
+Driver Intervention Detection via Real-Time Transfer Function Estimation,10.1109/tits.2019.2956598,2020,excluded
+MmWave Radar Based Approach for Pedestrian Identification in Autonomous Vehicles,10.1109/southeastcon44009.2020.9249704,2020,excluded
+Online Monitoring for Safe Pedestrian-Vehicle Interactions,10.1109/itsc45102.2020.9294366,2020,excluded
+CSG: Critical Scenario Generation from Real Traffic Accidents,10.1109/iv47402.2020.9304609,2020,selected_coded
+Learning hierarchical behavior and motion planning for autonomous driving,10.1109/iros45743.2020.9341647,2020,excluded
+Real-Time Operational Driving Energy Management with Stochastic Vehicles Behavior Prediction,10.1109/iv47402.2020.9304533,2020,excluded
+Path-Following Control for Connected Self-driving Rollers with Preview Distance Online Optimization,10.23919/ccc50068.2020.9188788,2020,excluded
+Cooperative Perception and Localization for Cooperative Driving,10.1109/icra40945.2020.9197463,2020,excluded
+Efficient Uncertainty-aware Decision-making for Automated Driving Using Guided Branching,10.1109/icra40945.2020.9197302,2020,excluded
+LGSVL Simulator: A High Fidelity Simulator for Autonomous Driving,10.1109/itsc45102.2020.9294422,2020,excluded
+Interpretable Policies from Formally-Specified Temporal Properties,10.1109/itsc45102.2020.9294442,2020,excluded
+Role of Shape Memory Alloy Wires as a SENSAPTIC HMI Device,10.1109/jsen.2020.2975010,2020,excluded
+High-Speed Collision Avoidance using Deep Reinforcement Learning and Domain Randomization for Autonomous Vehicles,10.1109/itsc45102.2020.9294396,2020,excluded
+LMB Filter Based Tracking Allowing for Multiple Hypotheses in Object Reference Point Association,10.1109/mfi49285.2020.9235251,2020,excluded
+Driving Simulation of Autonomous Vehicle with ADS Control,10.1109/ecice50847.2020.9302023,2020,excluded
+Domain Transfer for Semantic Segmentation of LiDAR Data using Deep Neural Networks,10.1109/iros45743.2020.9341508,2020,excluded
+Scalable Generation of Statistical Evidence for the Safety of Automated Vehicles by the Use of Importance Sampling,10.1109/itsc45102.2020.9294503,2020,excluded
+DeepCrashTest: Turning Dashcam Videos into Virtual Crash Tests for Automated Driving Systems,10.1109/icra40945.2020.9197053,2020,selected_coded
+Simulation framework for development and testing of autonomous vehicles,10.1109/iemtronics51293.2020.9216334,2020,excluded
+Online intention recognition applied to real simulated driving maneuvers,10.1109/cogsima49017.2020.9216115,2020,excluded
+Hardware-in-the-Loop Simulation Platform for Autonomous Vehicle AEB Prototyping and Validation,10.1109/itsc45102.2020.9294704,2020,selected_coded
+Facilitating Autonomous Vehicle Research and Development Using Robot Simulators on the Example of a KAMAZ NEO Truck,10.1109/itsc45102.2020.9294716,2020,excluded
+Economic Adaptive Cruise Control for a Power Split Hybrid Electric Vehicle,10.1109/tits.2019.2938923,2020,excluded
+Identification of Lane-Change Maneuvers in Real-World Drivings with Hidden Markov Model and Dynamic Time Warping,10.1109/itsc45102.2020.9294481,2020,excluded
+Error performance analysis of IMM-Kalman filter for maneuvering target tracking application,10.1109/icwt50448.2020.9243662,2020,excluded
+OmniCAV: A Simulation and Modelling System that enables 'CAVs for All',10.1109/itsc45102.2020.9294544,2020,excluded
+Online Parameter Estimation for Human Driver Behavior Prediction,10.23919/acc45564.2020.9147924,2020,excluded
+Efficient statistical validation with edge cases to evaluate Highly Automated Vehicles,10.1109/itsc45102.2020.9294590,2020,excluded
+Augmented Reality-Based Advanced Driver-Assistance System for Connected Vehicles,10.1109/smc42975.2020.9283462,2020,excluded
+Autoe2e: End-to-end real-time middleware for autonomous driving control,10.1109/icdcs47774.2020.00092,2020,excluded
+Applying Quarter-Vehicle Model Simulation for Road Elevation Measurements Utilizing the Vehicle Level Sensor,10.1109/vtc2020-fall49728.2020.9348664,2020,excluded
+Application of HBF with Adaptive Port Mapping for LEO Satellite Communication Systems,10.1109/vtc2021-fall52928.2021.9625158,2021,excluded
+An Open-Source Scenario Architect for Autonomous Vehicles,10.1109/ever48776.2020.9243029,2020,excluded
+ATRIUM: Test Environment for Automotive Radars,10.1109/icmim48759.2020.9298995,2020,excluded
+Adaptive Failure Search Using Critical States from Domain Experts,10.1109/icra48506.2021.9561477,2021,excluded
+Next generation X-in-the-loop validation methodology for automated vehicle systems,10.1109/access.2021.3061732,2021,selected_coded
+Simulator Design for Interference Analysis in Complex Automotive Multi-User Traffic Scenarios,10.1109/radarconf2043947.2020.9266318,2020,excluded
+Some Rules for Setting the Horizon Parameters of NMPC-Based Vehicle Path Tracking,10.1109/cac51589.2020.9327369,2020,excluded
+TEPLITS: A comprehensive Test Platform for Intelligent Transportation Systems,10.1109/vtc2020-spring48590.2020.9129475,2020,excluded
+Synthesis of mm-Wave Wideband Receivers in 28-nm CMOS Technology for Automotive Radar Applications,10.1109/tcad.2020.2983363,2020,excluded
+The benefit of Simulation Test Application on the Development of Autonomous Driving System,10.1109/cacs50047.2020.9289717,2020,excluded
+The ConScenD Dataset: Concrete Scenarios from the highD Dataset According to ALKS Regulation UNECE R157 in OpenX,10.1109/ivworkshops54471.2021.9669219,2021,selected_coded
+Simulation of HIL Analog Power Meter Connection Technology for Vehicle Autonomous Driving,10.1109/ecbios51820.2021.9510899,2021,excluded
+The integration of multiple test benches for functional verification of the cooperative ADAS,10.1109/vtc2020-fall49728.2020.9348442,2020,excluded
+The Study of Subjective Evaluation Method of ADAS Function Based on Driver Simulator,10.1109/mlise54096.2021.00103,2021,excluded
+Validation and testing of the decentralized architecture for the occupancy grid filtering pipeline,10.1109/cavs51000.2020.9334587,2020,excluded
+Virtual Reality Simulation of a Quadrotor to Monitor Dependent People at Home,10.1109/tetc.2020.3000352,2021,excluded
+YOLO Algorithm-Based Surrounding Object Identification on Autonomous Electric Vehicle,10.23919/eecsi53397.2021.9624275,2021,excluded
+"Proceedings of the 2021 IEEE International Conference on Internet of Things and Intelligence Systems, IoTaIS 2021",,2021,excluded
+"Proceedings - 2020 13th International Conference on Human System Interaction, HSI 2020",,2020,excluded
+Catabot: Autonomous Surface Vehicle with an Optimized Design for Environmental Monitoring,10.1109/ieeeconf38699.2020.9389391,2020,excluded
+Development of AUV for SAUVC during COVID-19,10.23919/oceans44145.2021.9705822,2021,excluded
+Mapping and Scheduling Automotive Applications on ADAS Platforms using Metaheuristics,10.1109/etfa46521.2020.9212029,2020,excluded
+Longitudinal Collision Avoidance and Lateral Stability Adaptive Control System Based on MPC of Autonomous Vehicles,10.1109/tits.2019.2918176,2020,excluded
+An Adaptive Informative Path Planning Algorithm for Real-time Air Quality Monitoring Using UAVs,10.1109/icuas48674.2020.9214013,2020,excluded
+Comparative analysis of ROS based 2D and 3D SLAM algorithms for autonomous ground vehicles,10.1109/incet49848.2020.9154101,2020,excluded
+Driving-Simulator-in-the-Loop - Virtual Function Design with Consideration of Human Behaviour,10.1109/isse49799.2020.9272020,2020,excluded
+End-to-end neural network for vehicle dynamics modeling,10.1109/cist49399.2021.9357196,2020,excluded
+Decision and Behavior Planning for a Self-driving Vehicle at Unsignalized Intersections,10.1109/cacs50047.2020.9289738,2020,excluded
+Energy-Based Analysis of String Stability in Heterogeneous Platoons,10.1109/vtc2021-fall52928.2021.9625178,2021,excluded
+Research on Control Method of Self-driving Vehicle Based on Adaptive Fuzzy PID,10.1109/cis54983.2021.00052,2021,excluded
+Evaluate the Connected Autonomous Vehicles Infrastructure using Digital Twin Model Based on Cyber-Physical Combination of Intelligent Network,10.1109/cvci54083.2021.9661190,2021,excluded
+Integrated Path Planning and Lateral-Longitudinal Control for Autonomous Electric Vehicles,10.23919/aeitautomotive52815.2021.9662798,2021,excluded
+REAL: Rapid Exploration with Active Loop-Closing toward Large-Scale 3D Mapping using UAVs,10.1109/iros51168.2021.9636611,2021,excluded
+Gamified Internet of Things Testing within a Virtual Learning Environment-Towards the Interactive Simulation Game 'IoTCityLab',10.1109/cseet49119.2020.9206175,2020,excluded
+Hybrid Trajectory Planning for Autonomous Driving in On-Road Dynamic Scenarios,10.1109/tits.2019.2957797,2021,excluded
+Interaction-Aware Probabilistic Trajectory Prediction of Cut-In Vehicles Using Gaussian Process for Proactive Control of Autonomous Vehicles,10.1109/access.2021.3075677,2021,excluded
+Probabilistic Egocentric Motion Correction of Lidar Point Cloud and Projection to Camera Images for Moving Platforms,10.1109/itsc45102.2020.9294601,2020,excluded
+Controller initiation and monitoring of a relative spacing task during parallel runway operations,10.1109/dasc50938.2020.9256487,2020,excluded
+Intelligence Assessment of Automated Driving Systems Based on Driving Intelligence Quotient,10.1109/cvci54083.2021.9661123,2021,excluded
+Seamless validation of cyber-physical systems under real-time conditions by using a cyber-physical laboratory test field,10.1109/rasse53195.2021.9686844,2021,excluded
+Probabilistic Model-Based Global Localization in an Airport Environment,10.1109/case49439.2021.9551542,2021,excluded
+Simulation of Automatic Overtaking Based on OBU and RSU,10.1109/cste53634.2021.00016,2021,excluded
+Autonomous Vehicle Source Enumeration Exploiting Non-Cooperative UAV in Software Defined Internet of Vehicles,10.1109/tits.2020.3018377,2021,excluded
+Fault injection in optical path-detection quality degradation analysis with Wasserstein distance,10.1109/mmar49549.2021.9528441,2021,excluded
+Digital twin-enabled reinforcement learning for end-to-end autonomous driving,10.1109/dtpi52967.2021.9540179,2021,excluded
+Research on HIL Test Evaluation Method of Smart Cameras,10.1109/itnec52019.2021.9586956,2021,excluded
+Online Parameter Estimation Methods for Adaptive Cruise Control Systems,10.1109/tiv.2020.3023674,2021,excluded
+Deep Learning Based Approach to Generate Realistic Data for ADAS Applications,10.1109/icccsp52374.2021.9465529,2021,selected_coded
+Model in the loop testing and validation of embedded autonomous driving algorithms,10.1109/iv48863.2021.9575530,2021,excluded
+Graph-based Extrinsic Calibration of Multiple 2D-Lidars,10.1109/iciea51954.2021.9516386,2021,excluded
+Range-based collision prediction for dynamic motion,10.1109/ccnc49032.2021.9369608,2021,excluded
+Generating and characterizing scenarios for safety testing of autonomous vehicles,10.1109/iv48863.2021.9576023,2021,excluded
+Game theoretic modeling and decision making for connected vehicle interactions at urban intersections,10.1109/icarm52023.2021.9536147,2021,excluded
+Driving behavior safety levels: Classification and evaluation,10.1109/mt-its49943.2021.9529309,2021,excluded
+RCS Measurements for the Implementation in Radar Target Simulators,10.1109/iceaa52647.2021.9539849,2021,excluded
+Proactive Content Caching at Self-Driving Car Using Federated Learning with Edge Cloud,10.1109/icufn49451.2021.9528638,2021,excluded
+Model-based design and processor-in-the-loop validation of a model predictive control for coupled longitudinal-lateral vehicle dynamics of connected and automated vehicles,10.1109/med51440.2021.9480227,2021,excluded
+Safe Imitation Learning on Real-Life Highway Data for Human-like Autonomous Driving,10.1109/itsc48978.2021.9564785,2021,excluded
+Simulation driven design and test for safety of ai based autonomous vehicles,10.1109/cvprw53098.2021.00022,2021,excluded
+SceVar (Scenario Variations) Database: Real World Statistics driven Scenario Variations for AV Testing in Simulation: Abstraction of static and dynamic entities from road network-Traffic ecosystem and their interactions or relationships in semantic data models for realistic simulation-based testing of AVs,10.1145/3462741.3466655,2021,excluded
+Preliminary Evaluation of Path-Aware Crossover Operators for Search-Based Test Data Generation for Autonomous Driving,10.1109/sbst52555.2021.00020,2021,excluded
+Implementation and evaluation of latency visualization method for teleoperated vehicle,10.1109/iv48863.2021.9575817,2021,excluded
+Driver Distraction Recognition-driven Collision Avoidance Algorithm for Active Vehicle Safety,10.1109/itsc48978.2021.9564648,2021,excluded
+Online Adaptation of Parameters using GRU-based Neural Network with BO for Accurate Driving Model,10.1145/3474717.3483632,2021,selected_coded
+Maneuver-based resimulation of driving scenarios based on real driving data,10.1109/iv48863.2021.9575441,2021,excluded
+Automated Bus Rapid Transit System Development with 3D Simulations,10.1109/icce-taiwan55306.2022.9869140,2022,excluded
+ANTI-CARLA: An Adversarial Testing Framework for Autonomous Vehicles in CARLA,10.1109/itsc55140.2022.9921776,2022,excluded
+Analysis of Real-Time LiDAR Sensor Simulation for Testing Automated Driving Functions on a Vehicle-in-the-Loop Testbench,10.1109/iv51971.2022.9827048,2022,selected_coded
+Design of Blockchain-Based Lightweight V2I Handover Authentication Protocol for VANET,10.1109/tnse.2022.3142287,2022,excluded
+Reinforcement Learning for Autonomous Vehicle Movements in Wireless Sensor Networks,10.1109/icc42927.2021.9500318,2021,excluded
+AD PerDevKit: An Autonomous Driving Perception Development Kit using CARLA simulator and ROS,10.1109/itsc55140.2022.9922369,2022,excluded
+Acceleration-Based Collision Criticality Metric for Holistic Online Safety Assessment in Automated Driving,10.1109/access.2022.3186765,2022,excluded
+Agent-Based Autonomous Vehicle Simulation with Hardware Emulation in the Loop,10.1109/iv51971.2022.9827215,2022,selected_coded
+Cooperative Platooning with Mixed Traffic on Urban Arterial Roads,10.1109/iv51971.2022.9827105,2022,excluded
+Simulation-based Digital Twin for 5G Connected Automated and Autonomous Vehicles,10.1109/eucnc/6gsummit54941.2022.9815732,2022,excluded
+Social-Aware Decision Algorithm for On-ramp Merging Based on Level-k Gaming,10.1109/case49997.2022.9926461,2022,excluded
+Sim2real: Issues in transferring autonomous driving model from simulation to real world,10.1109/southeastcon48659.2022.9764110,2022,excluded
+Synthesis of a 2DOF Linear Quadratic Gaussian Position Control for a Steer-by-Wire System in Highly Automated Driving Applications,10.1109/iv51971.2022.9827117,2022,excluded
+Sum-Of-Squares Based Vehicle Dynamic Stability Method and Its Applications in ADAS,10.1109/iv51971.2022.9827142,2022,excluded
+Synchronization of Hybrid Models in the Automated Driving Simulation,10.1109/vtc2022-spring54318.2022.9860798,2022,excluded
+Validating Simulation Environments for Automated Driving Systems Using 3D Object Comparison Metric,10.1109/iv51971.2022.9827354,2022,selected_coded
+The JKU DORA Traffic Dataset,10.1109/access.2022.3203188,2022,excluded
+Ultra-Reliable and Low-Latency Wireless Communications in the High SNR Regime: A Cross-Layer Tradeoff,10.1109/tcomm.2021.3124946,2022,excluded
+Vehicle-in-the-Loop Intelligent Connected Vehicle Simulation System Based on Vehicle-Road-Cloud Collaboration,10.1109/itsc55140.2022.9922190,2022,selected_coded
+"VISTA 2.0: An Open, Data-driven Simulator for Multimodal Sensing and Policy Learning for Autonomous Vehicles",10.1109/icra46639.2022.9812276,2022,selected_coded
+Vehicle-to-Everything (V2X) in Scenarios: Extending Scenario Description Language for Connected Vehicle Scenario Descriptions∗,10.1109/iv51971.2022.9827272,2022,excluded
+Validation of Vehicle-to-Infrastructure scenarios based on the X-in-the-Loop-approach,10.1109/metroautomotive54295.2022.9855027,2022,excluded
+Synthetic to Real Gap Estimation of Autonomous Driving Datasets using Feature Embedding,10.1109/roma55875.2022.9915679,2022,selected_coded
+CPHS 2021 - Proceedings of the 2021 1st ACM International Workshop on Cyber-Physical-Human System Design and Implementation,,2021,excluded
+"Proceedings - 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops, VRW 2022",,2022,excluded
+Generation of modular and measurable validation scenarios for autonomous vehicles using accident data,10.1109/iv48863.2021.9575506,2021,excluded
+Eco-Driving of Autonomous Vehicles for Nonstop Crossing of Signalized Intersections,10.1109/tase.2020.3029452,2022,excluded
+Eco-Approach with Traffic Prediction and Experimental Validation for Connected and Autonomous Vehicles,10.1109/tits.2020.2972198,2021,excluded
+Range Doppler Migration Synthesis for Realistic Radar Target Simulation,10.1109/wisnet51848.2021.9413781,2021,excluded
+Enhancing Euro NCAP Standards with Metamorphic Testing for Verification of Advanced Driver-Assistance Systems,10.1109/met52542.2021.00013,2021,excluded
+Robust vehicle driver assistance control for handover scenarios considering driving performances,10.1109/tsmc.2019.2931484,2021,excluded
+Optimising the introduction of connected and autonomous vehicles in a public transport system using macro-level mobility simulations and evolutionary algorithms,10.1145/3449726.3459476,2021,excluded
+Proximally Optimal Predictive Control Algorithm for Path Tracking of Self-Driving Cars,10.1145/3478586.3478632,2021,excluded
+MIMO-SAR: A Hierarchical High-Resolution Imaging Algorithm for mmWave FMCW Radar in Autonomous Driving,10.1109/tvt.2021.3092355,2021,excluded
+Deep Evaluation Metric: Learning to Evaluate Simulated Radar Point Clouds for Virtual Testing of Autonomous Driving,10.1109/radarconf2147009.2021.9455235,2021,selected_coded
+"Modeling, Parameter Identification, and Steering Angle Control of Electric Power Steering for Trajectory following in Autonomous Vehicles",10.1109/eit51626.2021.9491890,2021,excluded
+Route-Based Proactive Content Caching Using Self-Attention in Hierarchical Federated Learning,10.1109/access.2022.3157637,2022,excluded
+Querying Labelled Data with Scenario Programs for Sim-to-Real Validation,10.1109/iccps54341.2022.00052,2022,selected_coded
+How to build and validate a safe and reliable Autonomous Driving stack? A ROS based software modular architecture baseline,10.1109/iv51971.2022.9827271,2022,excluded
+Online Path Planning for Aircraft De-Icing Trucks with Dynamic Nonholonomic Constraints,10.1109/ur55393.2022.9826240,2022,excluded
+ML-based Anomaly Detection System for der Communication in Smart Grid,10.1109/isgt50606.2022.9817481,2022,excluded
+Modeling Operational Scenarios for Simulation-based Validation of Technical Systems,10.1109/icaica54878.2022.9844500,2022,excluded
+S-LDM: Server Local Dynamic Map for Vehicular Enhanced Collective Perception,10.1109/vtc2022-spring54318.2022.9860701,2022,excluded
+Considering Functional Safety - supporting the development of automated driving vehicles by the use of Model-Based Systems Engineering,10.1109/sose55472.2022.9812686,2022,excluded
+On the Impact of Road Traffic Control on Mobile Communications,10.1109/icc45855.2022.9838310,2022,excluded
+On Using Real-Time Reachability for the Safety Assurance of Machine Learning Controllers,10.1109/icaa52185.2022.00010,2022,excluded
+Connected and Autonomous Vehicle Cohort Speed Control Optimization via Neuroevolution,10.1109/access.2022.3206364,2022,excluded
+Frequency control reserve provision from a fleet of shared autonomous electric vehicles,10.1109/mt-its49943.2021.9529321,2021,excluded
+SALVO: Automated Generation of Diversified Tests for Self-driving Cars from Existing Maps,10.1109/aitest52744.2021.00033,2021,excluded
+Highway Discretionary Lane Changing Behavior Recognition Using Continuous and Discrete Hidden Markov Model,10.1109/itsc48978.2021.9564551,2021,excluded
+MultiCruise: Eco-lane selection strategy with eco-cruise control for connected and automated vehicles,10.1109/iv48863.2021.9575585,2021,excluded
+Safety Prompt Advanced Driver-Assistance System with Lane-Change Prediction and Free Space Detection,10.1109/icca54724.2022.9831811,2022,excluded
+Personalized Gap Selection Algorithm for On-ramp Merging Based on Virtual Game,10.1109/wrcsara57040.2022.9903987,2022,excluded
+Injecting Planning-Awareness into Prediction and Detection Evaluation,10.1109/iv51971.2022.9827101,2022,excluded
+Evaluation of Vehicle Assignment Algorithms for Autonomous Mobility on Demand,10.1109/iv51971.2022.9827456,2022,excluded
+Generic Detection and Search-based Test Case Generation of Urban Scenarios based on Real Driving Data,10.1109/iv51971.2022.9827198,2022,excluded
+Development of Simulation-Based Testing Scenario Generator for Robustness Verification of Autonomous Vehicles,10.1109/ic_aset53395.2022.9765910,2022,selected_coded
+Evaluation of scenario-based automotive radar testing in virtual environment using real driving data,10.1109/itsc55140.2022.9922366,2022,selected_coded
+Real-time Nonlinear MPC Strategy with Full Vehicle Validation for Autonomous Driving,10.23919/acc53348.2022.9867514,2022,excluded
+Prediction Based Decision Making for Autonomous Highway Driving,10.1109/itsc55140.2022.9922398,2022,excluded
+Reduced- and Full-order Concurrent Learning Extended State Observers for Fully Adaptive Anti-disturbance Surge Speed Tracking Control of Autonomous Surface Vehicles,10.1109/itsc55140.2022.9921818,2022,excluded
+Early Assessment of System-Level Safety Mechanisms through Co-Simulation-based Fault Injection,10.1109/iv51971.2022.9827327,2022,excluded
+Combining Virtual Reality and Steer-by-Wire Systems to Validate Driver Assistance Concepts,10.1109/iv51971.2022.9827282,2022,excluded
+Real-Time Path-tracking MPC for an Over-Actuated Autonomous Electric Vehicle,10.23919/acc53348.2022.9867858,2022,excluded
+Real-time road detection implementation of UNet architecture for autonomous driving,10.1109/ivmsp54334.2022.9816237,2022,excluded
+Modeling of the Traffic Vehicle Lane Change Execution in Autonomous Driving Virtual Test,10.1109/itsc55140.2022.9922315,2022,excluded
+Hybrid Reinforcement Learning based controller for autonomous navigation,10.1109/vtc2022-spring54318.2022.9861014,2022,excluded
+Self-driving simulation scene reconstruction using self-supervised depth completion,10.1109/cacre54574.2022.9834190,2022,selected_coded
+Offline Reinforcement Learning for Autonomous Driving with Real World Driving Data,10.1109/itsc55140.2022.9922100,2022,excluded
+Perspective-Corrected Extraction of Trajectories from Urban Traffic Camera Using CNN,10.1109/iccve52871.2022.9742966,2022,excluded
+Design and Implement an Enhanced Simulator for Autonomous Delivery Robot,10.1109/metrocad56305.2022.00009,2022,excluded
+Bayesian Online Learning for Sensory Data Analysis in Internet of Vehicles,10.1109/iccc55456.2022.9880820,2022,excluded
+CARLA Connect: A Connected Autonomous Vehicle (CAV) Driving Simulator,10.1109/ises54909.2022.00146,2022,excluded
+Automatic Lane Change System with Double Loop PID Algorithm,10.23919/iccas55662.2022.10003927,2022,excluded
+Application of Machine Learning to Automatic Gear Shift Schedule Design of Alternative Drive Systems,10.1109/siela54794.2022.9845718,2022,excluded
+Application of Digital Twin Technology in the Field of Autonomous Driving Test,10.1109/intellect55495.2022.9969184,2022,excluded
+An Intelligent Human Avatar to Debug and Challenge Human-aware Robot Navigation Systems,10.1109/hri53351.2022.9889651,2022,excluded
+An Integrated Traffic and Vehicle Co-Simulation Testing Framework for Connected and Autonomous Vehicles,10.1109/mits.2022.3188566,2022,selected_coded
+Autonomous Vehicle State Estimation using a LPV Kalman Filter and SLAM,10.23919/ecc55457.2022.9838175,2022,excluded
+BDEdge: Blockchain and Deep-Learning for Secure Edge-Envisioned Green CAVs,10.1109/tgcn.2022.3165692,2022,excluded
+Autonomous Tethered Drone Cell for IoT Connectivity in 6G Communications,10.1109/vtc2022-spring54318.2022.9860823,2022,excluded
+An Overview of Deep Learning Techniques for Autonomous Driving Vehicles,10.1109/icssit53264.2022.9716433,2022,survey
+Simulation-based test methods with an automotive camera-in-the-loop for automated driving algorithms,10.1109/iceccme55909.2022.9988437,2022,selected_coded
+Situation-Aware Drivable Space Estimation for Automated Driving,10.1109/tits.2022.3160829,2022,excluded
+The OPA3L System and Testconcept for Urban Autonomous Driving,10.1109/itsc55140.2022.9922416,2022,excluded
+The exiD Dataset: A Real-World Trajectory Dataset of Highly Interactive Highway Scenarios in Germany,10.1109/iv51971.2022.9827305,2022,excluded
+Segmented Encoding for Sim2Real of RL-based End-to-End Autonomous Driving,10.1109/iv51971.2022.9827374,2022,excluded
+The Vehicle Testing Based on Digital Twins Theory for Autonomous Vehicles,10.1109/jrfid.2022.3211565,2022,excluded
+Towards a Multivariate Scoring Metric for the Evaluation of Simulation Scenarios in Automated Driving,10.1109/itsc55140.2022.9922082,2022,selected_coded
+TraEDITS: Diversity and Irregularity-Aware Traffic Trajectory Editing,10.1109/lra.2022.3145510,2022,excluded
+Electromagnetic safety evaluation of Advanced Driving Assistance System in the anechoic chamber,10.1109/apemc53576.2022.9888601,2022,excluded
+Vehicle-in-the-Loop Testing-a Comparative Study for Efficient Validation of ADAS/AD Functions,10.1109/iccve52871.2022.9742737,2022,selected_coded
+Virtual Testing in Automated Driving Systems Certification. A Longitudinal Dynamics Validation Example,10.1109/access.2022.3171180,2022,selected_coded
+Autonomous Navigation of AGVs in Unknown Cluttered Environments: Log-MPPI Control Strategy,10.1109/lra.2022.3192772,2022,excluded
+Scan Matching and Probabilistic Stationary Global Localization in an Airport Environment,10.1109/case49997.2022.9926439,2022,excluded
+"Proceedings - 13th ACM/IEEE International Conference on Cyber-Physical Systems, ICCPS 2022",,2022,excluded
+Coordination between Connected Automated Vehicles and Pedestrians to Improve Traffic Safety and Efficiency at Industrial Sites,10.1109/access.2022.3185734,2022,excluded
+Deep Encoder-Decoder Network for Lane-Following on Autonomous Vehicle,10.1109/icce-taiwan55306.2022.9869205,2022,excluded
+Data-Driven Risk-Sensitive Control for Personalized Lane Change Maneuvers,10.1109/access.2022.3163267,2022,excluded
+Roadmap for development of skills in Artificial Intelligence by means of a Reinforcement Learning model using a DeepRacer autonomous vehicle,10.1109/educon52537.2022.9766659,2022,excluded
+Driver Behavior Model for the Safety Assessment of Automated Driving,10.1109/iv51971.2022.9827404,2022,excluded
+Estimating the Probability That a Vehicle Reaches a Near-Term Goal State Using Multiple Lane Changes,10.1109/tits.2021.3052954,2022,excluded
+Experimental V2X Evaluation for C-V2X and ITS-G5 Technologies in a Real-Life Highway Environment,10.1109/tnsm.2021.3129348,2022,excluded
+Design of Vehicle in the Loop Test System Based on L3 Autopilot,10.1109/imcec55388.2022.10020004,2022,selected_coded
+Real-time Simulation and Testing of a Neural Network-based Autonomous Vehicle Trajectory Prediction Model,10.1109/msn57253.2022.00106,2022,excluded
+Design of V2X-Based Vehicular Contents Centric Networks for Autonomous Driving,10.1109/tits.2021.3125358,2022,excluded
+Automated Foreign Object Debris Detection System based on UAV,10.1109/icnsc55942.2022.10004050,2022,excluded
+Gaussian Process-Based Personalized Adaptive Cruise Control,10.1109/tits.2022.3174042,2022,excluded
+Combined Control of Freeway Traffic Involving Cooperative Adaptive Cruise Controlled and Human Driven Vehicles Using Feedback Control Through SUMO,10.1109/tits.2021.3098640,2022,excluded
+Integrated Optimization of Transit Signal Priority and Trajectory Planning for Autonomous Buses to Catch Green Light,10.1109/cvci56766.2022.9964850,2022,excluded
+Fidelity Evaluation of Virtual Traffic Based on Anomalous Trajectory Detection,10.1109/iros47612.2022.9981800,2022,excluded
+Decision-making in Autonomous Driving by Reinforcement Learning Combined with Planning \& control,10.1109/cvci56766.2022.9964691,2022,excluded
+Pedestrian Interaction Algorithm for Autonomous Vehicles Considering Crossing Intention and Driving Style,10.1109/cvci56766.2022.9965103,2022,excluded
+EPSILON: An Efficient Planning System for Automated Vehicles in Highly Interactive Environments,10.1109/tro.2021.3104254,2022,excluded
+"PHA-Based Feedback Control of a Biomimetic AUV for Diver Following: Design, Simulations and Real-Time Experiments",10.23919/ecc55457.2022.9838054,2022,excluded
+Enhancing SUMO simulator for simulation based testing and validation of autonomous vehicles,10.1109/iv51971.2022.9827241,2022,excluded
+Numerical Analysis on Slinky 3 dB Power Divider for High Speed RF Sensor System,10.1109/conecct55679.2022.9865701,2022,excluded
+How Simulation based Test Methods will substitute the Proving Ground Testing?,10.1109/iv51971.2022.9827394,2022,selected_coded
+Parameterisation of lane-change scenarios from real-world data,10.1109/itsc55140.2022.9921981,2022,excluded
+Deploying Traffic Smoothing Cruise Controllers Learned from Trajectory Data,10.1109/icra46639.2022.9811912,2022,excluded
+Integrated Generative-Model Domain-Adaptation for Object Detection under Challenging Conditions,10.1109/vtc2022-spring54318.2022.9860406,2022,excluded
+Parameterization of automated driving functions in virtual environments based on characteristic test scenarios,10.1109/iv51971.2022.9827407,2022,excluded
+"Infra2Go: A Mobile Development Platform for Connected, Cooperative and Autonomous Driving",10.1109/itsc55140.2022.9922328,2022,excluded
+Semi-Autonomous Electric Vehicles in Platooning Mode and Their Effects on Travel Time: A Framework for Simulation Evaluation,10.1109/iv51971.2022.9827004,2022,excluded
+Real-time DNN Model Partitioning for QoE Enhancement in Mobile Vision Applications,10.1109/secon55815.2022.9918600,2022,excluded
+Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing,10.1109/icra46639.2022.9811650,2022,excluded
+Injection Simulation: an Efficient Validation Framework for Autonomous Driving System,10.1109/itsc55140.2022.9922510,2022,excluded
+Personalized Autonomous Vehicle Control for Typical Driving Scenarios,10.1109/cvci56766.2022.9964856,2022,excluded
+MOSAT: finding safety violations of autonomous driving systems using multi-objective genetic algorithm,10.1145/3540250.3549100,2022,excluded
+MDD: A Unified Model-Driven Design Framework for Embedded Control Software,10.1109/tcad.2021.3132564,2022,excluded
+LPV-Based Autonomous Vehicle Lateral Controllers: A Comparative Analysis,10.1109/tits.2021.3125771,2022,excluded
+InterSim: Interactive Traffic Simulation via Explicit Relation Modeling,10.1109/iros47612.2022.9982008,2022,excluded
+Cooperative Towing by Multi-Robot System That Maintains Welding Cable in Optimized Shape,10.1109/lra.2022.3183529,2022,excluded
+Radar point cloud synchronization and simulation method under multi-condition constraints,10.1109/cac57257.2022.10055761,2022,excluded
+Road Network Variation Based on HD Map Analysis for the Simulative Safety Assurance of Automated Vehicles,10.1109/iceccme55909.2022.9988312,2022,excluded
+Behavior Decision of Mobile Robot with a Neurophysiologically Motivated Reinforcement Learning Model,10.1109/tcds.2020.3035778,2022,excluded
+Case study on technological acceptance of autonomous vehicles and the influence of situational awareness: Lane detection in winter conditions,10.1145/3549865.3549906,2022,excluded
+Autonomous Driving on Curvy Roads Without Reliance on Frenet Frame: A Cartesian-Based Trajectory Planning Method,10.1109/tits.2022.3145389,2022,excluded
+An Integrated Framework of Autonomous Vehicles Based on Distributed Potential Field in BEV,10.1109/robio55434.2022.10011653,2022,excluded
+An Intelligent Lane-Changing Behavior Prediction and Decision-Making Strategy for an Autonomous Vehicle,10.1109/tie.2021.3066943,2022,excluded
+An Optimization-Based Path Planning Approach for Autonomous Vehicles Using the DynEFWA-Artificial Potential Field,10.1109/tiv.2021.3123341,2022,excluded
+Multimodal Error Correction for Speech-to-Text in a Mobile Office Automated Vehicle: Results From a Remote Study,10.1145/3490099.3511131,2022,excluded
+AImotion Challenge Results: A Framework for AirSim Autonomous Vehicles and Motion Replication,10.1109/compauto55930.2022.00015,2022,excluded
+An Adaptable Correlated Control for Maintaining Voltage Quality in Low-Voltage Distribution Grids Containing PVs and PEVs,10.1109/tii.2021.3131820,2022,excluded
+Adaptive Control of PMSM Servo System for Steering-by-Wire System With Disturbances Observation,10.1109/tte.2021.3128429,2022,excluded
+Anticipative and Predictive Control of Automated Vehicles in Communication-Constrained Connected Mixed Traffic,10.1109/tits.2021.3067282,2022,excluded
+Cooperative Adaptive Cruise Control With Unconnected Vehicle in the Loop,10.1109/tits.2020.3041840,2022,excluded
+"MiRE, A Mixed Reality Environment for Testing of Automated Driving Functions",10.1109/tvt.2022.3160353,2022,selected_coded
+Simulation of Switched-Mode Power Conversion Circuits With Extended Impedance Method,10.1109/tcsi.2022.3178447,2022,excluded
+Simulation Platform for Testing and Evaluation of CAV Trajectory Optimization and Signal Control Algorithm Integrated with Commercial Traffic Simulator,10.1109/wsc57314.2022.10015399,2022,excluded
+Simultaneous Feasible Local Planning and Path-Following Control for Autonomous Driving,10.1109/tits.2022.3149986,2022,excluded
+Smart Autodriver Algorithm for Real-Time Autonomous Vehicle Trajectory Control,10.1109/tits.2020.3030236,2022,excluded
+Study on Urban Collision Risk Scenarios Based on AEB-FOT in China,10.1109/icdsca56264.2022.9988716,2022,excluded
+The Effect of Spray Water on an Automotive LIDAR Sensor: A Real-Time Simulation Study,10.1109/tiv.2021.3067892,2022,selected_coded
+Time and Cost-Efficient Bathymetric Mapping System using Sparse Point Cloud Generation and Automatic Object Detection,10.1109/oceans47191.2022.9977073,2022,excluded
+Vehicle Redistribution in Ride-Sourcing Markets Using Convex Minimum Cost Flows,10.1109/tits.2021.3089777,2022,excluded
+Writing Accessible and Correct Test Scenarios for Automated Driving Systems,10.1109/smc53654.2022.9945564,2022,excluded
+Vehicle Trajectory Prediction and Cut-In Collision Warning Model in a Connected Vehicle Environment,10.1109/tits.2020.3019050,2022,excluded
+Vehicle Motion Planning With Joint Cartesian-Frenét MPC,10.1109/lra.2022.3194330,2022,excluded
+Validation of vehicles with automated features through the detection of behavioral differences between humans and machines,10.1109/ice/itmc-iamot55089.2022.10033260,2022,excluded
+Dynamics-Aligned Transfer Reinforcement Learning For Autonomous Underwater Vehicle Control,10.1109/icarm54641.2022.9959635,2022,excluded
+Continuous Control for Autonomous Underwater Vehicle Path Following Using Deep Interactive Reinforcement Learning,10.1109/mlcr57210.2022.00013,2022,excluded
+Interpolation and simulation of autonomous driving camera data for vehicle position synchronization,10.1109/cac57257.2022.10055163,2022,excluded
+Roundabout Crossing With Interval Occupancy and Virtual Instances of Road Users,10.1109/tits.2020.3042870,2022,excluded
+Dynamic Lane-Changing Trajectory Planning for Autonomous Vehicles Based on Discrete Global Trajectory,10.1109/tits.2021.3083541,2022,excluded
+Side-Channel Security Analysis of Connected Vehicle Communications Using Hidden Markov Models,10.1109/tits.2022.3164779,2022,excluded
+Data-Driven Hardware-in-the-Loop Plant Modeling for Self-Driving Vehicles,10.1109/rose56499.2022.9977411,2022,excluded
+Efficient Parameter Exploration of Simulation Studies,10.1109/stc55697.2022.00034,2022,excluded
+Comparison of Simulators based on Scenario-based Testing of Autonomous Vehicles,10.1109/smartgencon56628.2022.10084131,2022,survey
+Quantum Collective Learning and Many-to-Many Matching Game in the Metaverse for Connected and Autonomous Vehicles,10.1109/tvt.2022.3190271,2022,excluded
+Modeling Methodology and In-field Measurement Setup to Develop Empiric Weather Models for Solid-State LiDAR Sensors,10.1109/dtpi55838.2022.9998918,2022,excluded
+Simulation and Test of Vehicle Global Routing Planning Algorithm Based on Autonomous Driving Simulator,10.1109/ccdc55256.2022.10033527,2022,excluded
+Design and Implementation of DSpace Using OpenSCENARIO to Construct Scenarios in Vehicle Simulation Testing,10.1109/aiipcc57291.2022.00012,2022,excluded
+Genetic Algorithm-Based Challenging Scenarios Generation for Autonomous Vehicle Testing,10.1109/jrfid.2022.3223092,2022,excluded
+Extraction of vehicle behaviors at intersections,10.1109/itsc57777.2023.10422152,2023,excluded
+Hierarchical Imitation Learning for Stochastic Environments,10.1109/iros55552.2023.10341451,2023,excluded
+Research on Integrated Environment of Autonomous Vehicle Simulation Based on Apollo,10.1109/ricai60863.2023.10489622,2023,excluded
+Research on Low Speed Unmanned Vehicle Simulation Testing Based on Vehicle in the Loop,10.1109/imse61332.2023.00040,2023,excluded
+AutoRS: Environment-Dependent Real-Time Scheduling for End-to-End Autonomous Driving,10.1109/tpds.2023.3323975,2023,excluded
+Building Critical Testing Scenarios for Autonomous Driving from Real Accidents,10.1145/3597926.3598070,2023,selected_coded
+Analysis and Synthesis of Cooperative Adaptive Cruise Control Against the Hetero-Integration Poly-Net Loop Delays,10.1109/tie.2023.3236081,2023,excluded
+APG-RRT: Sampling-Based Path Planning Method for Small Autonomous Vehicle in Closed Scenarios,10.1109/access.2024.3359643,2024,excluded
+An Explainable and Robust Motion Planning and Control Approach for Autonomous Vehicle On-Ramping Merging Task Using Deep Reinforcement Learning,10.1109/tte.2023.3347278,2024,excluded
+An FTSA Trajectory Elliptical Homotopy for Unmanned Vehicles Path Planning With Multi-Objective Constraints,10.1109/tiv.2023.3237518,2023,excluded
+An Autonomous Vehicle Group Model in an Urban Scene,10.1109/jiot.2023.3262640,2023,excluded
+Active Suspension Robust Preview Control by Considering Actuator Delay,10.1109/tiv.2023.3280599,2023,excluded
+An Autonomous Vehicle Group Cooperation Model in an Urban Scene,10.1109/tits.2023.3300278,2023,excluded
+An Adaptive Human Driver Model for Realistic Race Car Simulations,10.1109/tsmc.2023.3285588,2023,confirmed_not_coded
+Advanced Scenario Generation for Calibration and Verification of Autonomous Vehicles,10.1109/tiv.2023.3269428,2023,excluded
+Information Presentation Strategies to Promote Pedestrian Behavior Change in Mixed Spaces with Automated Vehicle,10.1109/sii58957.2024.10417422,2024,excluded
+Online Adaptive Generation of Critical Boundary Scenarios for Evaluation of Autonomous Vehicles,10.1109/tits.2023.3248121,2023,excluded
+Simulation-Based Validation for Autonomous Driving Systems,10.1145/3597926.3598100,2023,excluded
+SMART: Self-Morphing Adaptive Replanning Tree,10.1109/lra.2023.3315210,2023,excluded
+Spatiotemporal Trajectory Planning for Autonomous Vehicle Based on Reachable Set and Iterative LQR,10.1109/tvt.2024.3371184,2024,excluded
+Sim-on-Wheels: Physical World in the Loop Simulation for Self-Driving,10.1109/lra.2023.3325689,2023,selected_coded
+Speed Adaptive Robot Trajectory Generation Based on Derivative Property of B-Spline Curve,10.1109/lra.2023.3241812,2023,excluded
+STRIVE: A Co-Simulation-Based Testing Platform Enhanced with Runtime Monitors,10.1109/comsnets59351.2024.10427233,2024,excluded
+The World is Too Big to Download: 3D Model Retrieval for World-Scale Augmented Reality,10.1145/3587819.3590970,2023,excluded
+Surround-View Fisheye Optics in Computer Vision and Simulation: Survey and Challenges,10.1109/tits.2024.3368136,2024,excluded
+Quantifying the Effectiveness of Advertising: A Bootstrap Proportion Test for Brand Lift Testing,10.1145/3583780.3615021,2023,excluded
+Local Navigation and Obstacle Avoidance for an Agricultural Tractor With Nonlinear Model Predictive Control,10.1109/tcst.2023.3291533,2023,excluded
+Consensus-Based Autonomous Navigation of a Team of RIS-Equipped UAVs for LoS Wireless Communication with Mobile Nodes in High-Density Areas,10.1109/tase.2022.3183335,2023,excluded
+Cooperative Strategy of Trajectory Tracking and Stability Control for 4WID Autonomous Vehicles Under Extreme Conditions,10.1109/tvt.2022.3216486,2023,excluded
+Neural Network Guided Evolutionary Fuzzing for Finding Traffic Violations of Autonomous Vehicles,10.1109/tse.2022.3195640,2023,excluded
+Fault Detection and Data-driven Optimal Adaptive Fault-tolerant Control for Autonomous Driving using Learning-based SMPC,10.1109/tiv.2024.3385755,2024,excluded
+Intelligent Vehicle Path Based on Discretized Sampling Points and Improved Cost Function: A Quadratic Programming Approach,10.1109/access.2024.3364369,2024,excluded
+Occlusion-Aware Risk Assessment and Driving Strategy for Autonomous Vehicles Using Simplified Reachability Quantification,10.1109/lra.2023.3329627,2023,excluded
+Concept of a holistic HiL test system for autonomous vehicles in cyber-physical Traffic Systems,10.1145/3655532.3655588,2023,excluded
+MILE: Multiobjective Integrated Model Predictive Adaptive Cruise Control for Intelligent Vehicle,10.1109/tii.2022.3220842,2023,excluded
+RITA: Boost Driving Simulators with Realistic Interactive Traffic Flow,10.1145/3627676.3627681,2023,excluded
+LiDAR Ground Detection-Based Dynamic Inverse Perspective Mapping of BEV Lanes,10.1109/jsen.2023.3331007,2023,excluded
+Efficient and Unbiased Safety Test for Autonomous Driving Systems,10.1109/tiv.2022.3213310,2023,excluded
+Mind the Gap! A Study on the Transferability of Virtual Versus Physical-World Testing of Autonomous Driving Systems,10.1109/tse.2022.3202311,2023,selected_coded
+Differentiable Optimization for Orchestration: Resource Offloading for Vehicles in Smart Cities,10.1109/access.2024.3363426,2024,excluded
+REFINE: Reachability-Based Trajectory Design Using Robust Feedback Linearization and Zonotopes,10.1109/tro.2024.3366819,2024,excluded
+Hybrid Trajectory Optimization for Autonomous Terrain Traversal of Articulated Tracked Robots,10.1109/lra.2023.3337593,2024,excluded
+On the Fluctuating Beckmann Shadowed Composite Fading Model and Its Applications to Wireless Communications,10.1109/tvt.2023.3275920,2023,excluded
+Real-Time Implementation Comparison of Urban Eco-Driving Controls,10.1109/tcst.2023.3304910,2024,excluded
+Functional Testing Scenario Library Generation Framework for Connected and Automated Vehicles,10.1109/tits.2023.3266639,2023,excluded
+Path Planning and Obstacle Avoidance Control for Autonomous Multi-Axis Distributed Vehicle Based on Dynamic Constraints,10.1109/tvt.2022.3227447,2023,excluded
+OpenCDA-ROS: Enabling Seamless Integration of Simulation and Real-World Cooperative Driving Automation,10.1109/tiv.2023.3298528,2023,excluded
+Combining Reinforcement Learning With Genetic Algorithm for Many-To-Many Route Optimization of Autonomous Vehicles,10.1109/access.2024.3366517,2024,excluded
+Quantifying the LiDAR Sim-to-Real Domain Shift: A Detailed Investigation Using Object Detectors and Analyzing Point Clouds at Target-Level,10.1109/tiv.2023.3251650,2023,selected_coded
+Event-Triggered Model Predictive Control for Autonomous Vehicle Path Tracking: Validation Using CARLA Simulator,10.1109/tiv.2023.3266941,2023,excluded
+Learning When to Use Adaptive Adversarial Image Perturbations Against Autonomous Vehicles,10.1109/lra.2023.3280813,2023,excluded
+PMWorld: A Parallel Testing Platform for Autonomous Driving in Mines,10.1109/tiv.2023.3332739,2024,excluded
+Interactive Left-Turning of Autonomous Vehicles at Uncontrolled Intersections,10.1109/tase.2022.3227964,2024,excluded
+Modeling Human Driving Behavior Through Generative Adversarial Imitation Learning,10.1109/tits.2022.3227738,2023,excluded
+Robustness Analysis of a Distributed Adaptive Model Predictive Control for Connected and Automated Vehicles Against Delays,10.1109/tcst.2023.3345175,2024,excluded
+Channel Assignment and Power Allocation Utilizing NOMA in Long-Distance UAV Wireless Communication,10.1109/tvt.2023.3272580,2023,excluded
+Human-Like Decision-Making of Autonomous Vehicles in Dynamic Traffic Scenarios,10.1109/jas.2023.123696,2023,excluded
+Hierarchical Motion Planning and Tracking for Autonomous Vehicles Using Global Heuristic Based Potential Field and Reinforcement Learning Based Predictive Control,10.1109/tits.2023.3266195,2023,excluded
+REAL-SAP: Real-Time Evidence Aware Liable Safety Assessment for Perception in Autonomous Driving,10.1109/tvt.2024.3369100,2024,excluded
+Implicit predictive behavior cloning for autonomous driving decision-making in urban traffic,10.1109/tiv.2024.3374952,2024,excluded
+Cybersecurity Simulator for Connected and Autonomous Vehicles,10.1145/3565287.3617616,2023,excluded
+From Naturalistic Traffic Data to Learning-Based Driving Policy: A Sim-To-Real Study,10.1109/tvt.2023.3307409,2024,selected_coded
+Impediments to Environmental Awareness in Autonomous Driving Systems and Its Effect on User Adoption,10.1109/tiv.2024.3373773,2024,excluded
+Graph Matching-Based Spatiotemporal Calibration of Roadside Sensors in Cooperative Vehicle-Infrastructure Systems,10.1109/tits.2024.3374281,2024,excluded
+Automotive Radar Modeling for Virtual Simulation Based on Mixture Density Network,10.1109/jsen.2022.3223765,2023,excluded
+Analysis of a Runtime Data Sharing Architecture over LTE for a Heterogeneous CAV Fleet,10.1145/3576914.3587712,2023,excluded
+An Integrated New Deep Learning Framework for Reliable CSI Acquisition in Connected and Autonomous Vehicles,10.1109/mnet.004.2300013,2023,excluded
+Autonomous Bus Docking for Optimal Ride Comfort of Standing Passengers,10.1109/tits.2024.3396396,2024,excluded
+"Enabling Seamless Data Security, Consensus, and Trading in Vehicular Networks",10.1109/tiv.2024.3388247,2024,excluded
+Gradient-Optimized B-spline Trajectory Planning for Unmanned Platforms,10.1109/ccdc62350.2024.10587979,2024,excluded
+Adaptive Pedestrian Agent Modeling for Scenario-based Testing of Autonomous Vehicles through Behavior Retargeting,10.1109/icra57147.2024.10610078,2024,excluded
+Adaptive Cost Function-Based Shared Driving Control for Cooperative Lane-Keeping Systems with User-Test Experiments,10.1109/tiv.2023.3317979,2024,excluded
+An Efficient Safety-Oriented Car-Following Model for Connected Automated Vehicles Considering Discrete Signals,10.1109/tvt.2023.3257048,2023,excluded
+SRL-TR2: A Safe Reinforcement Learning Based TRajectory TRacker Framework,10.1109/tits.2023.3250720,2023,excluded
+Tactics2D: A Highly Modular and Extensible Simulator for Driving Decision-Making,10.1109/tiv.2024.3415815,2024,excluded
+Sustainable DDPG-Based Path Tracking for Connected Autonomous Electric Vehicles in Extra-Urban Scenarios,10.1109/tia.2024.3444733,2024,excluded
+GAN-Based Domain Adaptation for Creating Digital Twins of Small-Scale Driving Testbeds: Opportunities and Challenges,10.1109/iv55156.2024.10588594,2024,selected_coded
+The Performance Analysis of Time Series Data Augmentation Technology for Small Sample Communication Device Recognition,10.1109/tr.2022.3178707,2023,excluded
+Trajectory Optimization and Robust Tracking Control for Off-Road Autonomous Vehicle,10.1109/access.2024.3410013,2024,excluded
+"VALERIE22 - A photorealistic, richly metadata annotated dataset of urban environments",10.1145/3631204.3631866,2023,excluded
+"How Simulation Helps Autonomous Driving: A Survey of Sim2real, Digital Twins, and Parallel Intelligence",10.1109/tiv.2023.3312777,2024,survey
+Choose Your Simulator Wisely: A Review on Open-source Simulators for Autonomous Driving,10.1109/tiv.2024.3374044,2024,survey
+Vehicular Ad Hoc Networks Topology Optimization for Autonomous Intersection Management System: A Periodic Intervention-Based Approach,10.1109/tits.2024.3412771,2024,excluded
+VoxelScape: Large Scale Simulated 3D Point Cloud Dataset of Urban Traffic Environments,10.1109/tits.2023.3271414,2023,excluded
+Angular Resolved RCS and Doppler Analysis of Human Body Parts in Motion,10.1109/tmtt.2022.3218304,2023,excluded
+Platform to Test and Evaluate Human-in-the-Loop Telemanipulation Schemes for Autonomous Unmanned Aerial Systems,10.1109/mesa61532.2024.10704856,2024,excluded
+Real-Time Dynamic Map With Crowdsourcing Vehicles in Edge Computing,10.1109/tiv.2022.3214119,2023,excluded
+Modeling of Motion Distortion Effect of Scanning LiDAR Sensors for Simulation-Based Testing,10.1109/access.2024.3355066,2024,excluded
+Deep Koopman Operator-Informed Safety Command Governor for Autonomous Vehicles,10.1109/tmech.2023.3349052,2024,excluded
+Game-Theoretic Lane Change Decision-Making Method Considering Traffic Trend,10.1109/tie.2024.3376813,2024,excluded
+NR-RRT: Neural Risk-Aware Near-Optimal Path Planning in Uncertain Nonconvex Environments,10.1109/tase.2022.3215562,2024,excluded
+Robust Car-Following Control of Connected and Autonomous Vehicles: A Stochastic Model Predictive Control Approach,10.1109/tiv.2024.3379730,2024,excluded
+Discrete Multi-Objective Switching Topology Sliding Mode Control of Connected Autonomous Vehicles With Packet Loss,10.1109/tiv.2022.3215139,2023,excluded
+Generation of Tailored and Confined Datasets for IDS Evaluation in Cyber-Physical Systems,10.1109/tdsc.2023.3341211,2024,excluded
+Optimal Deployment of Cloud-native Applications with Fault-Tolerance and Time-Critical End-to-End Constraints,10.1145/3603166.3632139,2023,excluded
+Deep Q-Learning-Based Dynamic Management of a Robotic Cluster,10.1109/tase.2022.3205651,2023,excluded
+Robust Preview Path Tracking Control of Autonomous Vehicles Under Time-Varying System Delays and Saturation,10.1109/tvt.2023.3250328,2023,excluded
+Exploring Representations for Optimizing Connected Autonomous Vehicle Routes in Multi-Modal Transport Networks Using Evolutionary Algorithms,10.1109/tits.2024.3374550,2024,excluded
+Cooperative Adaptive Cruise Control for Connected Autonomous Vehicles Using Spring Damping Energy Model,10.1109/tvt.2022.3218575,2023,excluded
+Fixed-Time and Fault-Tolerant Path-Following Control for Autonomous Vehicles With Unknown Parameters Subject to Prescribed Performance,10.1109/tsmc.2022.3211624,2023,excluded
+Experimental Validation of Safe MPC for Autonomous Driving in Uncertain Environments,10.1109/tcst.2023.3291562,2023,excluded
+Prediction Based Trajectory Planning for Safe Interactions Between Autonomous Vehicles and Moving Pedestrians in Shared Spaces,10.1109/tits.2023.3281157,2023,excluded
+Impact of Sensing Errors on Headway Design: From α-Fair Group Safety to Traffic Throughput,10.1109/tmc.2024.3389987,2024,excluded
+Radar in the Rain: Understanding and Simulating Environmental Effects on ADAS Radar Sensors,10.1109/radarconf2458775.2024.10548570,2024,excluded
+Interaction-aware Trajectory Prediction for Opponent Vehicle in High Speed Autonomous Racing,10.1109/iv55156.2024.10588727,2024,excluded
+"Open RAN-Empowered V2X Architecture: Challenges, Opportunities, and Research Directions",10.1109/vnc61989.2024.10576004,2024,excluded
+Improved Traffic Sign Detection in Autonomous Driving Using A Simulation-Based Deep Learning Approach Under Adverse Conditions,10.1109/adics58448.2024.10533464,2024,excluded
+Cooperative Control of Coupled Multi-Agent System of Autonomous Vehicle Chassis Based on Co-DMPC,10.1109/tte.2024.3412955,2024,excluded
+Multi-Modal Driver Behavior Analysis and Speed Estimation using Fusion of Computer Vision and InCar Sensor Data,10.1109/sceecs61402.2024.10482236,2024,excluded
+Evaluating Autonomous Vehicle Safety Performance Through Analysis of Pre-Crash Trajectories of Powered Two-Wheelers,10.1109/tits.2024.3392673,2024,selected_coded
+UAV-Assisted Wireless Networks: Mobility and Service Oriented Power Allocation and Trajectory Design,10.1109/tvt.2024.3430370,2024,excluded
+Safety Assurance Case for Autonomous Vehicle Object Detection: A Simulation for Smart Factory,10.1109/aims61812.2024.10512805,2024,excluded
+Enriching 3D Object Detection in Autonomous Driving for Emergency Scenarios: Leveraging Point Cloud Data with CARLA Simulator for Automated Annotation of Rare 3D Objects,10.1109/southeastcon52093.2024.10500173,2024,excluded
+High-Fidelity Real-Time Radar Modeling with Consideration of False and Missed Alarms for Autonomous Driving Simulation,10.1109/tiv.2024.3406493,2024,excluded
+Incorporating Human Factors into Scenario Languages for Automated Driving Systems,10.1109/iv55156.2024.10588672,2024,excluded
+Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving,10.1109/cvpr52733.2024.01397,2024,excluded
+Multi-Step Continuous Decision Making and Planning in Uncertain Dynamic Scenarios Through Parallel Spatio-Temporal Trajectory Searching,10.1109/lra.2024.3443495,2024,excluded
+Real-Time Experimental Evaluation and Analysis of PID and MPC Controllers Using HIL Setup for Robust Steering System of Autonomous Vehicles,10.1109/access.2024.3406219,2024,excluded
+Co-simulate no more: The CARLA V2X Sensor,10.1109/iv55156.2024.10588488,2024,excluded
+Efficient Uncertainty-Aware Collision Avoidance for Autonomous Driving Using Convolutions,10.1109/tits.2024.3398193,2024,excluded
+SESF State-Oriented Vehicle-Following Control Based on Real-Time Tracking of Dynamic Safety Intervehicle Distance,10.1109/jiot.2024.3395322,2024,excluded
+Comprehensive Testing Methodologies and Metrics for Reliable Autonomous Driving,10.1109/icmre60776.2024.10532171,2024,survey
+Exploring Realism in Virtual Testing: Towards a Scalable Platform Using Open-Source Solutions for Automated Driving Systems,10.1109/iv55156.2024.10588761,2024,excluded
+AUTODRAITEC: A Novel AI-based System on the Road Infrastructure for Autonomous Driving - Proof of Concept,10.1109/iv55156.2024.10588793,2024,excluded
+Approximate DCT and Quantization Techniques for Energy-Constrained Image Sensors,10.1109/tcad.2024.3434333,2024,excluded
+Analyzing the Impact of Simulation Fidelity on the Evaluation of Autonomous Driving Motion Control,10.1109/iv55156.2024.10588858,2024,excluded
+High-Fidelity Joint Self-Driving Simulation Platform for Unmanned All-Terrain Vehicles,10.1109/icaace61206.2024.10549306,2024,excluded
+Adaptive Resilient Control for Autonomous Vehicles Steering System against False Data Injection Attacks,10.1109/arso60199.2024.10557799,2024,excluded
+Adjustable Control for Enhanced Interoperability of Human-Autonomy Teaming Within ISR Operations,10.1109/icmcis61231.2024.10541005,2024,excluded
+Assessing Quality Metrics for Neural Reality Gap Input Mitigation in Autonomous Driving Testing,10.1109/icst60714.2024.00024,2024,selected_coded
+Energy Impacts of Traffic-Smoothing Cruise Controllers on Mixed Traffic,10.1109/fists60717.2024.10485545,2024,excluded
+Enhancing Safety in Mixed Traffic: Learning-Based Modeling and Efficient Control of Autonomous and Human-Driven Vehicles,10.1109/tits.2024.3384050,2024,excluded
+Smart Mobility Digital Twin Based Automated Vehicle Navigation System: A Proof of Concept,10.1109/tiv.2024.3368109,2024,excluded
+Socially Intelligent Path-Planning for Autonomous Vehicles Using Type-2 Fuzzy Estimated Social Psychology Models,10.1109/access.2024.3443196,2024,excluded
+Towards learning-based planning: The nuPlan benchmark for real-world autonomous driving,10.1109/icra57147.2024.10610077,2024,excluded
+Uniform Finite Time Safe Path Tracking Control for Obstacle Avoidance of Autonomous Vehicle via Barrier Function Approach,10.1109/tits.2024.3384444,2024,excluded
+"Wireless V2X Communication Testbed for Connected, Cooperative and Automated Mobility",10.1109/vnc61989.2024.10575958,2024,excluded
+Safety-Critical Pursuit-Evasion Differential Game Guidance for Multiple Underactuated Autonomous Surface Vehicles,10.1109/yac63405.2024.10598448,2024,excluded
+Distributed Adaptive Integral Sliding Mode Affine Formation Maneuver Control for Multiple AUVs With Event-Triggered Chattering- Reduction Mechanism,10.1109/tvt.2024.3423771,2024,excluded
+Data Transfer Optimization Scheme Based on dSpace High-Fidelity LiDAR Model,10.1109/iccece61317.2024.10504152,2024,excluded
+Enhanced Approaches to Similarity Analysis on Car Accident Reconstruction,10.1109/aiiot61789.2024.10578996,2024,selected_coded
+Learning Realistic and Reactive Traffic Agents,10.1109/iv55156.2024.10588807,2024,excluded
+Motion Planner for Automated Vehicle on Unstructured Roads,10.1109/iv55156.2024.10588442,2024,excluded
+Exponential Predefined Time Trajectory Tracking Control for Fixed-Wing UAV With Input Saturation,10.1109/taes.2024.3402656,2024,excluded
+FRENETIX: A High-Performance and Modular Motion Planning Framework for Autonomous Driving,10.1109/access.2024.3436835,2024,excluded
+Simulating Road Spray Effects in Automotive Lidar Sensor Models,10.1109/iv55156.2024.10588834,2024,excluded
+Multitest:Physical-Aware Object Insertion for Testing Multi-Sensor Fusion Perception Systems,10.1145/3597503.3639191,2024,excluded
+Maneuver Coordination Using V2I to Improve Traffic Efficiency at Intersections,10.1109/vnc61989.2024.10575944,2024,excluded
+Privacy-Preserving Cruise Control for Heterogeneous Platoon Vehicle System Under Actuator Faults and Uncertainties,10.1109/tits.2024.3390779,2024,excluded
+Prescribed-Time Elliptical Circumnavigation for Multiple Moving Targets by Multi-UAVs,10.1109/tiv.2024.3406026,2024,excluded
+Data-based optimisation of traffic flow simulations: A gradient based approach,10.1109/iv55156.2024.10588540,2024,excluded
+Diversified Critical-Scenario-Search for Defect Detection of Autonomous Driving System,10.1109/tiv.2024.3414848,2024,excluded
+Dvatar: Simulating the Binary Firmware of Drones,10.1109/jiot.2024.3416449,2024,excluded
+Real-Data-Driven Offline Reinforcement Learning for Autonomous Vehicle Speed Decision Making,10.1109/ccdc62350.2024.10588065,2024,excluded
+Optimal Motion Design for Autonomous Vehicles with Learning Aided Robust Control,10.1109/tvt.2024.3394699,2024,excluded
+Segment-Based Trajectory Prediction and Risk Assessment for RSU-assisted CAVs at Signalized Intersections,10.1109/tiv.2024.3414198,2024,excluded
+Modeling of Complex Traffic Interaction Under Uncontrolled Intersection Scenario,10.1109/tiv.2024.3407058,2024,excluded
+REHEARSE: adveRse wEatHEr datAset for sensoRy noiSe modEls,10.1109/iv55156.2024.10588491,2024,excluded
+SOScheduler: Toward Proactive and Adaptive Wildfire Suppression via Multi-UAV Collaborative Scheduling,10.1109/jiot.2024.3389771,2024,excluded
+Secure Control Design for Cooperative Adaptive Cruise Control under False Data Injection Attack,10.1109/tits.2024.3395208,2024,excluded
+Efficient Precision-Driven Scenario Design: Tailoring Collision Type Probabilities for Richer Autonomous Testing,10.1109/tiv.2024.3385792,2024,excluded
+Human-UAV Interaction Assisted Heterogeneous UAV Swarm Scheduling for Target Searching in Communication Denial Environment,10.1109/tase.2024.3412005,2024,excluded
+Parallel Nonlinear Model Predictive Controller for Real-Time Path Tracking of Autonomous Vehicle,10.1109/tie.2024.3390738,2024,excluded
+Hierarchical Trajectory Planning Based on Adaptive Motion Primitives and Bilevel Corridor,10.1109/tvt.2024.3420159,2024,excluded
+Robust Path Tracking Control for Off-Road Autonomous Vehicle via System Level Synthesis,10.1109/iv55156.2024.10588610,2024,excluded
+Multi-Object Tracking with Camera-LiDAR Fusion for Autonomous Driving,10.23919/ecc64448.2024.10591139,2024,excluded
+ETS-Based Human–Machine Robust Shared Control Design Considering the Network Delays,10.1109/tase.2024.3383094,2024,excluded
+Safe Stabilizing Control of Traffic Systems with Simultaneous State and Actuator Delays,10.1109/lcsys.2024.3411828,2024,excluded
+Multi-Profile Quadratic Programming (MPQP) for Optimal Gap Selection and Speed Planning of Autonomous Driving,10.1109/icra57147.2024.10611173,2024,excluded
+Simplifying Sim-to-Real Transfer in Autonomous Driving: Coupling Autoware with the CommonRoad Motion Planning Framework,10.1109/iv55156.2024.10588748,2024,excluded
+Motion Planning at Intersections with Safe Differential Games based on Control Barrier Function,10.1109/iv55156.2024.10588714,2024,excluded
+Dual-Cockpit Human and Hardware-In-the-Loop Test Bench for Autonomous Vehicle Development,10.1109/tiv.2024.3401086,2024,excluded
+Learning the Dynamics of Human Patterns for Autonomous Navigation,10.1109/cpe-powereng60842.2024.10604363,2024,excluded
+Machine Learning Based Real-Time Self-Driving Car for Sudanese Autonomous Vehicular Markets,10.1109/mi-sta61267.2024.10599744,2024,excluded
+"Evaluation of Automotive Radar Simulation Tools for Adverse Weather Conditions: A Comparative Analysis of Real Measurement, HFSS and Monte-Carlo GO Methods",10.1109/radarconf2458775.2024.10549398,2024,excluded
+Interactive Critical Scenario Generation for Autonomous Vehicles Testing Based on In-depth Crash Data Using Reinforcement Learning,10.1109/tiv.2024.3415961,2024,excluded
+Incremental Bayesian Learning for Fail-Operational Control in Autonomous Driving,10.23919/ecc64448.2024.10590988,2024,excluded
+Koopman-Based Hybrid Modeling and Zonotopic Tube Robust MPC for Motion Control of Automated Vehicles,10.1109/tits.2024.3403656,2024,excluded
+Research on Modeling and Simulation of Longitudinal Control of Truck Autonomous Driving,10.1109/ainit61980.2024.10581598,2024,excluded
+Decision Making for Autonomous Driving Stack: Shortening the Gap from Simulation to Real-World Implementations,10.1109/iv55156.2024.10588560,2024,selected_coded
+Multi-Segment Polynomial Trajectory Generation of Autonomous Vehicles Based on Quadratic Programming,10.1109/icccr61138.2024.10585399,2024,excluded
+MARVIN: Mobile Autonomous Robot Vehicle for Investigation \& Navigation,10.1109/ur61395.2024.10597447,2024,excluded
+Safe and Energy-Efficient Jerk-Controlled Speed Profiling for On-Road Autonomous Vehicles,10.1109/tiv.2024.3416551,2024,excluded
+Efficient and Interaction-Aware Trajectory Planning for Autonomous Vehicles with Particle Swarm Optimization,10.1109/iv55156.2024.10588678,2024,excluded
+Human-Guided Deep Reinforcement Learning for Optimal Decision Making of Autonomous Vehicles,10.1109/tsmc.2024.3384992,2024,excluded
+DGNR: Density-Guided Neural Point Rendering of Large Driving Scenes,10.1109/tase.2024.3410891,2024,selected_coded
+Real-Time High-Precision Nonlinear Tracking Control of Autonomous Vehicles Using Fast Iterative Model Predictive Control,10.1109/tiv.2024.3352171,2024,excluded
+Empirical Test of Visual Recognition System of Autonomous Vehicle Based On Deep Learning,10.1109/icsece61636.2024.10729404,2024,excluded
+Design of AI-Powered Hybrid Control Algorithm of Robot Vehicle for Enhanced Driving Performance,10.1109/les.2023.3257774,2024,excluded
+DriveSceneGen: Generating Diverse and Realistic Driving Scenarios From Scratch,10.1109/lra.2024.3416792,2024,selected_coded
+Development of Autonomous Vehicle System using ESP32 Microcontroller,10.1109/apcit62007.2024.10673667,2024,excluded
+Progressive Barrier Tightened Fast Nonlinear Model Predictive Control for High-Performance Path Tracking,10.1109/tte.2024.3481473,2024,excluded
+Driving Behavior Model for Multi-Vehicle Interaction at Uncontrolled Intersections Based on Risk Field Considering Drivers' Visual Field Characteristics,10.1109/tits.2024.3465442,2024,excluded
+Beyond Reality: Crafting Logical Systems for Autonomous Vehicles through Virtual Reality,10.1109/wconf61366.2024.10692163,2024,excluded
+"Click, Crop \& Detect: One-Click Offline Annotation for Human-in-the-Loop 3D Object Detection on Point Clouds",10.1109/cvprw63382.2024.00454,2024,excluded
+Autonomous High-Speed Overtaking of Intelligent Chassis Using Fast Iterative Model Predictive Control,10.1109/tte.2023.3269602,2024,excluded
+An Integrated Path Planning Framework for Multi-Obstacle Avoidance of the Multi-Axle Autonomous Vehicle With Enhanced Safety and Stability,10.1109/tvt.2023.3346450,2024,excluded
+Angle Tracking and Fault-Tolerant Control of Steer-by-Wire System with Dual Three-Phase Motor for Autonomous Vehicle,10.1109/tits.2023.3335420,2024,excluded
+Human-Inspired Anticipative Cruise Control for Enhancing Mixed Traffic Flow,10.1109/tits.2024.3438211,2024,excluded
+Simulation-Based Evaluation of Secure Communication Algorithms With Global Awareness in Game Engine Environments,10.1109/iccims61672.2024.10690504,2024,excluded
+"Smart Roads: Roadside Perception, Vehicle-Road Cooperation and Business Model",10.1109/mnet.2024.3483212,2024,excluded
+Symmetric BSIM-SOI - Part I: A Compact Model for Dynamically Depleted SOI MOSFETs,10.1109/ted.2024.3363110,2024,excluded
+Simulation-based Testing of Automated Driving Systems,10.1145/3639478.3639788,2024,excluded
+The Flexcrash Platform for Testing Autonomous Vehicles in Mixed-Traffic Scenarios,10.1145/3650212.3685299,2024,excluded
+Towards Zero Accidents: Innovative Safety Strategies in Last Mile Vehicle Engineering,10.1109/remar61031.2024.10617753,2024,excluded
+"Ultra-Wideband, Miniature Microstrip Antenna with High Dielectric Constant based on Non-Foster Circuit Matching",10.1109/iws61525.2024.10713489,2024,excluded
+VisionScaling: Dynamic Deep Learning Model and Resource Scaling in Mobile Vision Applications,10.1109/jiot.2024.3349512,2024,excluded
+Verification and Validation (V\&V) for Safe Deployment of Automated Driving Systems – In Depth Evaluation of State-of-the-Art V\&V Methods in the Automotive Sector,10.1109/metroautomotive61329.2024.10615774,2024,excluded
+Online Trajectory Planning Method for Autonomous Ground Vehicles Confronting Sudden and Moving Obstacles Based on LSTM-Attention Network,10.1109/tcyb.2024.3486004,2024,excluded
+Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models,10.1145/3650105.3652296,2024,selected_coded
+How To Evaluate the Navigation of Autonomous Vehicles Around Pedestrians?,10.1109/tits.2023.3323662,2024,excluded
+Eco-Driving With Partial Wireless Charging Lane at Signalized Intersection: A Reinforcement Learning Approach,10.1109/tce.2024.3482101,2024,excluded
+Reinforcement Learning with Human Feedback for Realistic Traffic Simulation,10.1109/icra57147.2024.10610878,2024,selected_coded
+Diverse Controllable Diffusion Policy With Signal Temporal Logic,10.1109/lra.2024.3444668,2024,excluded
+Harmonic Included CSWPL Model for Broadband PA Design Based on GaN HEMTs,10.1109/ted.2023.3314714,2024,excluded
+Efficient Sparse LiDAR Data Reconstruction using Compressed Sensing for Real-Time Perception in Autonomous Vehicles,10.1109/icma61710.2024.10632881,2024,excluded
+Overtaking Path Planning for CAV Based on Improved Artificial Potential Field,10.1109/tvt.2023.3314860,2024,excluded
+Hierarchical Reinforcement Learning with Partner Modeling for Distributed Multi-agent Cooperation,10.1109/tpds.2024.3457153,2024,excluded
+Real-Time Resilient Tracking Control for Autonomous Vehicles Through Triple Iterative Approximate Dynamic Programming,10.1109/tits.2024.3489019,2024,excluded
+EFP: Efficient Frontier-Based Autonomous UAV Exploration Strategy for Unknown Environments,10.1109/lra.2024.3363531,2024,excluded
+Enhancing V2X Communication: Machine Learning Assisted Dynamic mmWave Beam Search,10.1109/icufn61752.2024.10625435,2024,excluded
+Portobello: Extending Driving Simulation from the Lab to the Road,10.1145/3613904.3642341,2024,excluded
+Group Frenet Frame CAV Path Planning on Highways,10.1109/jiot.2023.3314373,2024,excluded
+Dynamic Testing for Autonomous Vehicles Using Random Quasi Monte Carlo,10.1109/tiv.2024.3358329,2024,excluded
+Ethical Alignment Decision-Making for Connected Autonomous Vehicle in Traffic Dilemmas via Reinforcement Learning From Human Feedback,10.1109/jiot.2024.3447070,2024,excluded
+Radar Cross Section Analysis for Road Debris in Automotive FMCW Radar,10.1109/comcas58210.2024.10666261,2024,excluded
+Hierarchical Learned Risk-Aware Planning Framework for Human Driving Modeling,10.1109/icra57147.2024.10610354,2024,excluded
+Framework and experiment for a constraints-defined longitudinal dynamics control for autonomous driving in traffic,10.1109/ccta60707.2024.10666520,2024,excluded
+JaywalkerVR: A VR System for Collecting Safety-Critical Pedestrian-Vehicle Interactions,10.1109/icra57147.2024.10610819,2024,excluded
+Designing a Naturalistic Driving Situation Extraction Method to Improve the Learning Process of Automated Driving Technology,10.1109/icecet61485.2024.10698152,2024,selected_coded
+Evaluation of a New Real-Life Traffic Management Using a Limited Number of Connected Autonomous Vehicles,10.1109/tits.2023.3285913,2024,excluded
+Simuhack : A Realistic Attack Simulation Framework for Enhancing Cybersecurity in Autonomous Vehicles,10.1109/ic2sdt62152.2024.10695991,2024,excluded
+Dynamic Cumulative Human-Like Brake Control Modeling for Autonomous Vehicle Collision Analysis,10.1109/tvt.2024.3497583,2024,excluded
+Differential Privacy and Blockchain-Empowered Decentralized Graph Federated Learning-Enabled UAVs for Disaster Response,10.1109/jiot.2023.3332216,2024,excluded
+Optimized Sensor Fusion for Local Positioning System of Autonomous Vehicles,10.1109/gtsd62346.2024.10675200,2024,excluded
+Fuzzing Digital Twin with Graphical Visualization of Electronic AVs Provable Test for Consumer Safety,10.1109/tce.2023.3269528,2024,excluded
+Practical Considerations for Discrete-Time Implementations of Continuous-Time Control Barrier Function-Based Safety Filters,10.23919/acc60939.2024.10644713,2024,excluded
+DiaVio: LLM-Empowered Diagnosis of Safety Violations in ADS Simulation Testing,10.1145/3650212.3652135,2024,excluded
+From Sim to Real: A Pipeline for Training and Deploying Traffic Smoothing Cruise Controllers,10.1109/tro.2024.3463407,2024,selected_coded
+Automated Lane Change via Adaptive Interactive MPC: Human-in-the-Loop Experiments,10.1109/tcst.2024.3478028,2024,excluded
+Augmented Multiagent DRL for Multi-Incentive Task Prioritization in Vehicular Crowdsensing,10.1109/jiot.2024.3446954,2024,excluded
+Chance-Constrained Planning for Dynamically Stable Motion of Reconfigurable Vehicles,10.1109/tits.2023.3324317,2024,excluded
+Bio-Inspired Intelligence-Based Multiagent Navigation with Safety-Aware Considerations,10.1109/tai.2023.3334227,2024,excluded
+Assessing fidelity in synthetic datasets: A multi-criteria combination methodology,10.23919/fusion59988.2024.10706451,2024,selected_coded
+An Offset-Free Explicit Model Predictive Pressure Controller for Integrated Braking System,10.1109/tte.2023.3298001,2024,excluded
+ARES: Text-Driven Automatic Realistic Simulator for Autonomous Traffic,10.1109/lsp.2024.3481151,2024,selected_coded
+Adaptive Deep Reinforcement Learning for Critical Boundary Scenario Generation,10.23919/ccc63176.2024.10662571,2024,excluded
+An Efficient Rolling-Horizon Approach for Cooperative Multi-Lane Platoon Formation With Undefined Configurations,10.1109/tits.2024.3469634,2024,excluded
+Adaptive Cruise Control System Combined with AIoT,10.1109/icce-taiwan62264.2024.10674206,2024,excluded
+"An AR-Based Meta Vehicle Road Cooperation Testing Systems: Framework, Components Modeling, and an Implementation Example",10.1109/jiot.2024.3386691,2024,selected_coded
+AD-VILS: Implementation and Reliability Validation of Vehicle-In-the-Loop Simulation Platform for Evaluating Autonomous Driving Systems,10.1109/access.2024.3492162,2024,selected_coded
+Deep Reinforcement Learning Platooning Control of Non-Cooperative Autonomous Vehicles in a Mixed Traffic Environment,10.1109/case59546.2024.10711748,2024,excluded
+Task-Degradation Aware Adaptive Dynamic Scheduling for Priority-Based Automotive Cyber-Physical Systems,10.1109/access.2024.3490698,2024,excluded
+Towards Validation of Autonomous Vehicles Across Scales using an Integrated Digital Twin Framework,10.1109/aim55361.2024.10637205,2024,selected_coded
+Advancements in Mixed Reality for Autonomous Vehicle Testing and Advanced Driver Assistance Systems: A Survey,10.1109/tits.2024.3473740,2024,survey
+Validation of Adaptive Cruise Control based on Model Predictive Control for Autonomous Vehicles in Real-Time System,10.1109/codit62066.2024.10708081,2024,selected_coded
+VEhicular Secure Network Open Simulator (VESNOS): A Cyber-security oriented co-simulation platform for connected and automated driving,10.1145/3615979.3656054,2024,excluded
+VioHawk: Detecting Traffic Violations of Autonomous Driving Systems through Criticality-Guided Simulation Testing,10.1145/3650212.3680325,2024,excluded
+Real-time simulation of ship movements for a robot-assisted e-fueling process: A pathway to decarbonization through sector coupling,10.1109/mmar62187.2024.10680764,2024,excluded
+Enhancing Autonomous Driving: A Scalable Multi-Layered DRL Approach for Decision and Control,10.1109/ddcls61622.2024.10606682,2024,excluded
+Real-Time UWB and IMU Fusion Positioning System for Urban Rail Transit with High Mobility,10.1109/vtc2024-spring62846.2024.10683298,2024,excluded
+SICNav: Safe and Interactive Crowd Navigation using Model Predictive Control and Bilevel Optimization,10.1109/tro.2024.3484634,2024,excluded
+Leveraging Digital Twin and DRL for Collaborative Context Offloading in C-V2X Autonomous Driving,10.1109/tvt.2023.3333243,2024,excluded
+Human-Vehicle Shared Steering Control for Obstacle Avoidance: A Reference-Free Approach with Reinforcement Learning,10.1109/tits.2024.3420894,2024,excluded
+"Less Conservatism, Stronger Robustness: Iterative Robust Gain-Scheduled Path Following Control of Autonomous Bus with Unstructured and Changing Dynamics",10.1109/tvt.2023.3337331,2024,excluded
+Predicting Safety Misbehaviours in Autonomous Driving Systems Using Uncertainty Quantification,10.1109/icst60714.2024.00016,2024,excluded
+Exploring Real World Map Change Generalization of Prior-Informed HD Map Prediction Models,10.1109/cvprw63382.2024.00459,2024,selected_coded
+EPViSA: Efficient Auction Design for Real-Time Physical-Virtual Synchronization in the Human-Centric Metaverse,10.1109/jsac.2023.3345383,2024,excluded
+Lane Segmentation Data Augmentation for Heavy Rain Sensor Blockage Using Realistically Translated Raindrop Images and CARLA Simulator,10.1109/lra.2024.3390587,2024,selected_coded
+Optimizing Autonomous Vehicle Navigation with DQN and PPO: A Reinforcement Learning Approach,10.1109/apcit62007.2024.10673440,2024,excluded
+Predefined-Time Synchronization for FitzHugh-Nagumo Neural Networks with External Disturbances and Multiple Time Scales: An Adaptive Control Approach,10.1109/tase.2024.3460389,2024,excluded
+On-Line Motion Planning Using Bernstein Polynomials for Enhanced Target Localization in Autonomous Vehicles,10.23919/acc60939.2024.10644986,2024,excluded
+Enhancing Cyber Resilience of Autonomous Vehicles Against Sensor and Actuator Attacks Using Cascaded Secure State Estimations,,2024,excluded
+Path Planning Optimization of Smart Vehicle With Fast Converging Distance-Dependent PSO Algorithm,10.1109/ojits.2024.3486155,2024,excluded
+Signal and Trajectory Planning for Autonomous Buses at Local Intersections in Bi-modal Traffic Flows,10.1109/cis-ram61939.2024.10673194,2024,excluded
+Scenario Driven Development for Open Source Autonomous Driving Stack,10.1109/etfa61755.2024.10710800,2024,excluded
+LRAE: Large-Region-Aware Safe and Fast Autonomous Exploration of Ground Robots for Uneven Terrains,10.1109/lra.2024.3486229,2024,excluded
+Toward advanced driver assistance ACC and LPA based system and Model-in-the-Loop (MIL) simulations,10.1109/iraset57153.2023.10153058,2023,excluded
+Using the CARLA Simulator to Train A Deep Q Self-Driving Car to Control a Real-World Counterpart on A College Campus,10.1109/bigdata59044.2023.10386739,2023,excluded
+Survey on Traffic Flow-Based Autonomous Driving Simulation Tests,10.1109/ats59501.2023.10317945,2023,survey
+Exploring the Advantages of a Simulation-Based Mission Planning for Underwater Robotics,10.1109/metrosea58055.2023.10317565,2023,excluded
+Learning Trajectory Tracking For An Autonomous Surface Vehicle In Urban Waterways,10.23919/splitech58164.2023.10193554,2023,excluded
+RTDS Dynamic Testing for Adaptive Defense Scheme on Several Subsystems in Java-Bali,10.1109/ichveps58902.2023.10257315,2023,excluded
+Formally Robust and Safe Trajectory Planning and Tracking for Autonomous Vehicles,10.1109/tits.2022.3196623,2022,excluded
+Over-the-Air Automotive Radars Hardware-in-Loop Test for Development and Validation of Active Safety Systems and Autonomous Cars,10.1109/metroautomotive57488.2023.10219135,2023,excluded
+UAV-based Scenario Builder and Physical Testing platform for Autonomous Vehicles,10.1109/ciot57267.2023.10084885,2023,excluded
+Luminance Simulation in CARLA under Cloud Coverage - Model Validation and Implications,10.1109/metroautomotive57488.2023.10219098,2023,excluded
+SEO: Safety-Aware Energy Optimization Framework for Multi-Sensor Neural Controllers at the Edge,10.1109/dac56929.2023.10247751,2023,excluded
+Energy Impact of Connecting Multiple Signalized Intersections to Energy-Efficient Driving: Simulation and Experimental Results,10.1109/lcsys.2023.3234808,2023,excluded
+Combined Safety and Cybersecurity Testing Methodology for Autonomous Driving Algorithms,10.1145/3568160.3570235,2022,excluded
+Real-Time Local Map Generation and Collision-Free Trajectory Planning for Autonomous Vehicles in Dynamic Environments,10.1109/iccairo58903.2023.00009,2023,excluded
+Securing Autonomous Vehicles Against GPS Spoofing Attacks: A Deep Learning Approach,10.1109/access.2023.3319514,2023,excluded
+Contrastive Analysis of Path Planning Algorithms for Mobile Robots-A case study,10.1109/icemce57940.2023.10434168,2023,excluded
+RNN-based Interference Suppression Method for CS radar: Simulation and Experimental Evaluations,10.1109/icaiic57133.2023.10067132,2023,excluded
+Real-Time Self-Ajusting LQR Method for Autonomous Vehicle Lateral Control,10.1109/cvci59596.2023.10397215,2023,excluded
+Research on Automatic Driving Simulation System based on PreScan and Self-developed Driving Simulator,10.1109/icemce60359.2023.10490893,2023,excluded
+How Uncertainty Affects Test Results for Driving Automation,10.1109/iavvc57316.2023.10328078,2023,excluded
+Robust Control of Adaptive Cruise Control System with HIL Testing,10.1109/icstcee60504.2023.10585216,2023,excluded
+Sensor-Fusion-Based Event-Triggered Following Control for Nonlinear Autonomous Vehicles Under Sensor Attacks,10.1109/tase.2023.3337073,2023,excluded
+Safe and Stable RL (S2RL) Driving Policies Using Control Barrier and Control Lyapunov Functions,10.1109/tiv.2022.3160202,2023,excluded
+Introducing L-Shaping for a Streamlined Lidar-Based Perception in Urban Platooning,10.1109/iavvc57316.2023.10328037,2023,excluded
+Implementation of the A∗ Algorithm for Determining the Best Route for an Autonomous Electric Vehicle,10.1109/iwaiip58158.2023.10462790,2023,excluded
+Co-Vast: A Simulation Platform for Vehicle Collaboration in Autonomous Driving Scenarios,10.1109/aiotsys58602.2023.00058,2023,excluded
+Long-Term Consistent Simulation of Car-following Behavior in Autonomous Driving Test Scenarios,10.1109/ictle59670.2023.10508827,2023,excluded
+Improving the safety of autonomous driving by using Direct-to-Satellite connectivity: the case of Iridium and Starlink satellite constellations,10.1109/cscn60443.2023.10453196,2023,excluded
+Deep Reinforcement Learning for Autonomous Vehicle Intersection Navigation,10.1109/3ict60104.2023.10391453,2023,excluded
+Fast Finite-Time Path-Following Control for Autonomous Vehicle via Complete Model-Free Approach,10.1109/tii.2022.3165630,2023,excluded
+Reconstructing Objects in-the-wild for Realistic Sensor Simulation,10.1109/icra48891.2023.10160535,2023,excluded
+Energy-Efficient Lane Changes Planning and Control for Connected Autonomous Vehicles on Urban Roads,10.1109/iv55152.2023.10186574,2023,excluded
+Driving Conflict Resolution of Autonomous Vehicles at Unsignalized Intersections: A Differential Game Approach,10.1109/tmech.2022.3174273,2022,excluded
+(Re)2H2O: Autonomous Driving Scenario Generation via Reversely Regularized Hybrid Offline-and-Online Reinforcement Learning,10.1109/iv55152.2023.10186559,2023,excluded
+CoSim: A Co-Simulation Framework for Testing Autonomous Vehicles in Adverse Operating Conditions,10.1109/itsc57777.2023.10422355,2023,excluded
+Real-Time Parallel Trajectory Optimization with Spatiotemporal Safety Constraints for Autonomous Driving in Congested Traffic,10.1109/itsc57777.2023.10422203,2023,excluded
+Human-Road Dual Trust Mechanism in Adaptive Distributed Shared Control Framework under Lane Keeping Scenario,10.1109/cvci59596.2023.10397103,2023,excluded
+Lateral Motion Control for Obstacle Avoidance in Autonomous Driving Based on Deep Reinforcement Learning,10.1109/itsc57777.2023.10422057,2023,excluded
+CPM Academy: A Remote Platform for Teaching Current Topics in Connected and Automated Vehicles,10.1109/cdc49753.2023.10384102,2023,excluded
+Learning Human Dynamics in Autonomous Driving Scenarios,10.1109/iccv51070.2023.01901,2023,excluded
+Project Risk Mitigation in Autonomous Vehicles Systems: The Tesla way,10.1109/rasse60029.2023.10363473,2023,excluded
+Monocular Quasi-Dense 3D Object Tracking,10.1109/tpami.2022.3168781,2023,excluded
+Consecutive Inertia Drift of Autonomous RC Car via Primitive-Based Planning and Data-Driven Control,10.1109/iros55552.2023.10341461,2023,excluded
+Robust Optimal Braking Policy for Avoiding Collision With Front Bicycle,10.1109/ojits.2023.3335397,2023,excluded
+Automatic Odometry-Less OpenDRIVE Generation From Sparse Point Clouds,10.1109/itsc57777.2023.10421842,2023,excluded
+Automated Generation of OpenSCENARIO Scenarios for Evaluating Advanced Driver Assistance Systems,10.1109/iccubea58933.2023.10391957,2023,excluded
+Asynchronous Multithreading Reinforcement Control Decision Method for Unmanned Surface Vessel,10.1109/jiot.2023.3305387,2023,excluded
+Adaptive Cruise Control for Intelligent Vehicles Considering Circumferential Collision Avoidance,10.1109/icus58632.2023.10318288,2023,excluded
+An Automatic Vehicle Speed Controlling based on Traffic Signs Recognition using Convolutional Neural Network,10.1109/icccnt56998.2023.10306873,2023,excluded
+An Approach to Systematic Data Acquisition and Data-Driven Simulation for the Safety Testing of Automated Driving Functions,10.1109/itsc57777.2023.10422676,2023,excluded
+Adversarial Generation of Safety-Critical Lane-Change Scenarios for Autonomous Vehicles,10.1109/itsc57777.2023.10422684,2023,excluded
+An Evaluation Platform to Scope Performance of Synthetic Environments in Autonomous Ground Vehicles Simulation,10.1109/icassp49357.2023.10096852,2023,excluded
+Adaptive Event-Triggered Interval Type-2 T-S Fuzzy Control for Lateral Dynamic Stabilization of AEVs With Intermittent Measurements and Actuator Failure,10.1109/tte.2022.3204354,2023,excluded
+Paving the Ways for Vehicles-in-the-loop: Wireless Integration of Autonomous Vehicles into Mixed Reality Proving Grounds and Test Areas,10.1109/itsc57777.2023.10421917,2023,selected_coded
+Simulation of Communication Network Latency Effects on Vehicle Teleoperation,10.1109/itsc57777.2023.10422699,2023,excluded
+TEASER: Simulation-Based CAN Bus Regression Testing for Self-Driving Cars Software,10.1109/ase56229.2023.00154,2023,excluded
+Study on the Impacts of Hazardous Behaviors on Autonomous Vehicle Collision Rates Based on Humanoid Scenario Generation in CARLA,10.1109/cvci59596.2023.10397159,2023,excluded
+Transforming Automotive Industries Using PLC (Programmable Logic Controller) with Advanced Tools and AutoCode Generation,10.1109/incoft60753.2023.10425208,2023,excluded
+What Do Traffic Simulations Have to Provide for Virtual Road Safety Assessment? Human Error Modeling in Traffic Simulations,10.1109/tits.2022.3220961,2023,excluded
+Validation Process of the Computer Simulation of a Test-Purpose Self-Driving Vehicle,10.1109/iavvc57316.2023.10328107,2023,selected_coded
+When Simulator Meets Natural Deviation: A Study on Deviations in Simulation-based ADS Testing,10.1109/issrew60843.2023.00052,2023,selected_coded
+Vehicle-in-the-Loop Experimental Verification of Real-Time Embedded Computation on Microcontroller for Service-Oriented Energy-Optimal Strategies of Intelligent Electric Vehicles,10.1109/itsc57777.2023.10422025,2023,excluded
+"IAVVC 2023 - IEEE International Automated Vehicle Validation Conference, Proceedings",,2023,excluded
+AUV Adaptive PID Control Method Based on Deep Reinforcement Learning,10.1109/cac59555.2023.10451043,2023,excluded
+Path Planning Design for Autonomous Underwater Vehicles in 3D Environments Avoiding Static Obstacles,10.1109/iccia61416.2023.10506387,2023,excluded
+Optimizing Cooperative Control Algorithms for Vehicles and Roads at Unsignalized Intersections Considering Communication Performance,10.1109/ricai60863.2023.10489671,2023,excluded
+Generalization of Autonomous Driving Simulation Scenarios with Monte Carlo Sampling,10.1109/iciibms60103.2023.10347612,2023,excluded
+Research on the Role of OSS/OSH Platforms for Preliminary Simulation of UAVs: Demonstration with Case Studies,10.1109/esmarta59349.2023.10293669,2023,excluded
+Model Validation of Adaptive Cruise Control in Vehicles Utilizing Real-World Driving Data,10.1109/iavvc57316.2023.10328085,2023,excluded
+Designing and Testing A Secure Cooperative Adaptive Cruise Control under False Data Injection Attack,10.1109/dsc61021.2023.10354170,2023,excluded
+ScaTE: A Scalable Framework for Self- Supervised Traversability Estimation in Unstructured Environments,10.1109/lra.2023.3234768,2023,excluded
+Simulation based Closed Loop Scenario Fuzzing for Safety Critical ADAS Applications,10.1109/indicon59947.2023.10440801,2023,excluded
+Hardware-in-the-Loop System of the Autonomous Municipal Cleaning Vehicle,10.1109/icecce61019.2023.10442110,2023,excluded
+"Joint Sensing, Communication, and Computation Resources Allocation for Cooperative Perception",10.1109/globecom54140.2023.10436925,2023,excluded
+Data Driven Driving Behavior and Strategy for Microscopic Traffic Flow Simulation in Complex Intersections,10.1109/itaic58329.2023.10408802,2023,excluded
+Research on Hardware-in-the-Loop Automated Testing for integrated by-wire hydraulic brake system,10.1109/iaecst60924.2023.10503038,2023,excluded
+Integrated 5G mmWave Positioning in Deep Urban Environments: Advantages and Challenges,10.1109/globecom54140.2023.10437537,2023,excluded
+Copula-Based Interactive Behavior Modeling for Naturalistic Test Scenarios Generation,10.1109/itsc57777.2023.10421919,2023,selected_coded
+Hierarchical Motion Planning for Autonomous Vehicles in Unstructured Dynamic Environments,10.1109/lra.2022.3228159,2023,excluded
+"Practical Collaborative Perception: Design, Implementation, and Evaluation",10.1109/dtpi59677.2023.10365419,2023,excluded
+Real-Time Ray-Tracing-Based Simulation of Motion Distortion Effect on LiDAR,10.1109/itsc57777.2023.10422087,2023,excluded
+Learning Adaptive Cruise Control for Autonomous Vehicles Using End-to-End Deep Reinforcement Learning,10.1109/iecon51785.2023.10311652,2023,excluded
+On Transferability of Driver Observation Models from Simulated to Real Environments in Autonomous Cars,10.1109/itsc57777.2023.10422678,2023,excluded
+Real-Time Neural Rasterization for Large Scenes,10.1109/iccv51070.2023.00773,2023,excluded
+Constrained Model Predictive Control for Low-cost Autonomous Driving with Stability Guarantees,10.1109/ccdc58219.2023.10327667,2023,excluded
+Research on Lane Changing Strategy for Automated Vehicles Basing on Vehicle-in-the-Loop System,10.1109/auteee60196.2023.10408701,2023,excluded
+Enhancing CARLA Traffic Simulation with Pedestrian Animation for Testing Perception Functions in Automated Driving,10.1109/itsc57777.2023.10422666,2023,excluded
+FAIR: Towards Impartial Resource Allocation for Intelligent Vehicles With Automotive Edge Computing,10.1109/tiv.2023.3234888,2023,excluded
+Model Predictive Control of Autonomous Vehicles With Integrated Barriers Using Occupancy Grid Maps,10.1109/lra.2023.3236586,2023,excluded
+Development of a Four-Wheel Steering Scale Vehicle for Research and Education on Autonomous Vehicle Motion Control,10.1109/lra.2023.3291916,2023,excluded
+Fixed-Time Prescribed Performance Path-Following Control for Autonomous Vehicle With Complete Unknown Parameters,10.1109/tie.2022.3210544,2023,excluded
+Pedestrian Simulation by Learning from Online Human Demonstration with VR Headset,10.1109/itsc57777.2023.10422058,2023,excluded
+GarchingSim: An Autonomous Driving Simulator with Photorealistic Scenes and Minimalist Workflow,10.1109/itsc57777.2023.10421839,2023,excluded
+Enhancing Scene Simulation for Autonomous Driving with Neural Point Rendering,10.1109/itsc57777.2023.10422354,2023,excluded
+Connected Vehicle-in-the-Loop Test Environment with V2X Communication and its Applications for Connected and Automated Vehicles,10.1109/itsc57777.2023.10422396,2023,excluded
+Scenario-based Validation for Autonomous Vehicles with Different Fidelity Levels,10.1109/itsc57777.2023.10422403,2023,excluded
+Enhancing Pedestrian Safety in Autonomous Vehicles through Machine Learning,10.1109/icscna58489.2023.10370173,2023,excluded
+Economic Analysis of Smart Roadside Infrastructure Sensors for Connected and Automated Mobility,10.1109/itsc57777.2023.10422500,2023,excluded
+Improving Intention Detection in Single-Trial Classification Through Fusion of EEG and Eye-Tracker Data,10.1109/thms.2022.3225633,2023,excluded
+Comprehensive Training and Evaluation on Deep Reinforcement Learning for Automated Driving in Various Simulated Driving Maneuvers,10.1109/itsc57777.2023.10422159,2023,excluded
+GPU-Parallelized Iterative LQR with Input Constraints for Fast Collision Avoidance of Autonomous Vehicles,10.1109/iros47612.2022.9982026,2022,excluded
+Human-Like Trajectory Planning for Autonomous Vehicles Based on Spatiotemporal Geometric Transformation,10.1109/tits.2022.3177224,2022,excluded
+Online Safety Assessment of Automated Vehicles Using Silent Testing,10.1109/tits.2021.3119546,2022,excluded
+SFNet-N: An Improved SFNet Algorithm for Semantic Segmentation of Low-Light Autonomous Driving Road Scenes,10.1109/tits.2022.3177615,2022,excluded
+DyLESC: A Dynamic LiDAR Extrinsic Self-Calibration Method for Intelligent Driving Vehicles,10.1109/icite56321.2022.10101476,2022,excluded
+Simulation of an Autonomous Car Drive Scenario,10.1109/mcsi55933.2022.00034,2022,excluded
+Deep Reinforcement Learning Based Game-Theoretic Decision-Making for Autonomous Vehicles,10.1109/lra.2021.3134249,2022,excluded
+Indirect Shared Control Through Non-Zero Sum Differential Game for Cooperative Automated Driving,10.1109/tits.2022.3146895,2022,excluded
+Game-Theoretic Modeling of Multi-Vehicle Interactions at Uncontrolled Intersections,10.1109/tits.2020.3026160,2022,excluded
+Deterministic Optimality for Robust Vehicle Localization Using Visual Measurements,10.1109/tits.2021.3053574,2022,excluded
+Exploring Driver Physiological Response During Level 3 Conditional Driving Automation,10.1109/ichms56717.2022.9980597,2022,excluded
+Evaluation of Advanced Adaptive Cruise Control Based on Lane-Change Detection,10.23919/iccas55662.2022.10003876,2022,excluded
+Path Planning and Path Tracking for Collision Avoidance of Autonomous Ground Vehicles,10.1109/jsyst.2021.3085479,2022,excluded
+Research on Full Brake-By-Wire System and Clamping Force Estimation Strategy Based on Redundant Drive Motors,10.1109/access.2023.3330215,2023,excluded
+Hierarchical Control of Heavy-Duty Trucks Through Signalized Intersections With Non-Deterministic Signal Timing,10.1109/tits.2021.3128068,2022,excluded
+In-Field Measurement and Methodology for Modeling and Validation of Precipitation Effects on Solid-State LiDAR Sensors,10.1109/jrfid.2023.3234999,2023,selected_coded
+Millimeter-Wave Radar in-the-Loop Testing for Intelligent Vehicles,10.1109/tits.2021.3100894,2022,selected_coded
+Improved Robustness and Safety for Pre-Adaptation of Meta Reinforcement Learning with Prior Regularization,10.1109/iros47612.2022.9981621,2022,excluded
+Iterative LQR with Discrete Barrier States for Efficient Collision Avoidance of Autonomous Vehicle,10.23919/iccas55662.2022.10003834,2022,excluded
+Combining Model-Based Controllers and Generative Adversarial Imitation Learning for Traffic Simulation,10.1109/itsc55140.2022.9922261,2022,excluded
+SceGene: Bio-Inspired Traffic Scenario Generation for Autonomous Driving Testing,10.1109/tits.2021.3134661,2022,excluded
+Multivehicle Multisensor Occupancy Grid Maps (MVMS-OGM) for Autonomous Driving,10.1109/jiot.2022.3187827,2022,excluded
+Design and Evaluation of a Human-in-the-Loop Connected Cruise Control,10.1109/tvt.2022.3172507,2022,excluded
+Efficient Extrinsic Calibration of Multi-Sensor 3D LiDAR Systems for Autonomous Vehicles using Static Objects Information,10.1109/iros47612.2022.9981606,2022,excluded
+Experimental Validation of Online Motion Planning for Semi-Autonomous Vehicles,10.1109/vppc55846.2022.10003270,2022,excluded
+Extremum-Seeking-Based Adaptive Model-Free Control and Its Application to Automated Vehicle Path Tracking,10.1109/tmech.2022.3146727,2022,excluded
+Autonomous Robot System for Speed Tests of Vehicle,10.23919/ccc58697.2023.10240056,2023,excluded
+BITS: Bi-level Imitation for Traffic Simulation,10.1109/icra48891.2023.10161167,2023,selected_coded
+Cascaded Disturbance Compensation for MPC-based Autonomous Vehicle Guidance,10.1109/med59994.2023.10185834,2023,excluded
+Application of microphone array in ADAS using Model Based Development,10.1109/otcon56053.2023.10113905,2023,excluded
+Autonomous Driving Through Deep Learning in Video Games: A Visual-Based Perception and Action Approach,10.1109/dcoss-iot58021.2023.00109,2023,excluded
+Blockchain-Assisted Vehicle and Cargo Matching Using Optimal Fuzzy Restricted Boltzmann Machine in Autonomous Transport System,10.1109/access.2023.3319401,2023,excluded
+Assessing safe autonomous vehicle behavior via large scale traffic simulation,10.1109/iv55152.2023.10186531,2023,excluded
+Adversarial Safety-Critical Scenario Generation using Naturalistic Human Driving Priors,10.1109/tiv.2023.3335862,2023,excluded
+Ad Hoc-Obstacle Avoidance-Based Navigation System Using Deep Reinforcement Learning for Self-Driving Vehicles,10.1109/access.2023.3297661,2023,excluded
+An Event-Triggered Scheme for State Estimation of Preceding Vehicles Under Connected Vehicle Environment,10.1109/tiv.2022.3181330,2023,excluded
+An End-to-End Optimization Framework for Autonomous Driving Software,10.1109/icccr56747.2023.10193889,2023,excluded
+ADAS Verification in Co-Simulation: Towards a Meta-Model for Defining Test Scenarios,10.1109/icstw58534.2023.00018,2023,excluded
+Effects of Sim2Real Image Translation via DCLGAN on Lane Keeping Assist System in CARLA Simulator,10.1109/access.2023.3262991,2023,selected_coded
+Building a Vision-Based Mixed-Reality Framework for Autonomous Driving Navigation,10.1109/codit58514.2023.10284251,2023,selected_coded
+Critical Scenario Identification Concept: The Role of the Scenario-in-the-Loop Approach in Future Automotive Testing,10.1109/access.2023.3298875,2023,excluded
+Mixed-Integer Motion Planning on German Roads Within the Apollo Driving Stack,10.1109/tiv.2022.3162671,2023,excluded
+Simulation Research of AEB System Based on Virtual Scene,10.1109/eebda56825.2023.10090853,2023,excluded
+Simutack - An Attack Simulation Framework for Connected and Autonomous Vehicles,10.1109/vtc2023-spring57618.2023.10200555,2023,excluded
+Targetless Spatiotemporal Calibration for Multiple Heterogeneous Cameras and IMUs Based on Continuous-Time Trajectory Estimation,10.1109/tim.2023.3328688,2023,excluded
+TrajGen: Generating Realistic and Diverse Trajectories With Reactive and Feasible Agent Behaviors for Autonomous Driving,10.1109/tits.2022.3202185,2022,selected_coded
+Steering Angle Prediction Algorithm Performance Comparison in Different Simulators for Autonomous Driving,10.23919/softcom58365.2023.10271635,2023,excluded
+Towards Zero Domain Gap: A Comprehensive Study of Realistic LiDAR Simulation for Autonomy Testing,10.1109/iccv51070.2023.00760,2023,selected_coded
+Tree-structured Policy Planning with Learned Behavior Models,10.1109/icra48891.2023.10161419,2023,excluded
+VS-DDP: Variable Splitting Based Differential Dynamic Programming Algorithm for Autonomous Trajectory Planning,10.23919/ccc58697.2023.10241239,2023,excluded
+Vehicle-to-Infrastructure Communication for Real-Time Object Detection in Autonomous Driving,10.23919/wons57325.2023.10061953,2023,excluded
+Virtual Advanced Driver-Assistance Systems Tests,10.1109/ieeeconf56737.2023.10092046,2023,excluded
+Testing Operating Procedures for Large UAS with Detect and Avoid Capabilities in Civil Air Traffic Management Environments,10.1109/icns58246.2023.10124301,2023,excluded
+An Autonomous Decision-making Algorithm for Ship Collision Avoidance Based on DDQN with Prioritized Experience Replay,10.1109/ictis60134.2023.10243882,2023,excluded
+Fractional order based RISE controller for autonomous aerial vehicle,10.1109/icort56052.2023.10249117,2023,excluded
+Safety-Critical Trajectory Generation and Tracking Control of Autonomous Underwater Vehicles,10.1109/joe.2022.3190635,2023,excluded
+Prototyping an Autonomous Underwater Vehicle to Support Port Protection Challenges,10.1109/oceanslimerick52467.2023.10244692,2023,excluded
+HIL Simulation of the Positioning Control for an Automated Driving Monorail Vehicle,10.1109/indin51400.2023.10218259,2023,excluded
+Concept of an Automotive LiDAR Target Simulator for Direct Time-of-Flight LiDAR,10.1109/tiv.2021.3128808,2023,excluded
+Over-The-Air Automotive Radar System Testing,10.1109/iwat57058.2023.10171712,2023,excluded
+Longitudinal Control for closed loop simulation of Autonomous driving Vehicle,10.1109/esci56872.2023.10099753,2023,excluded
+Real-Time Optimization of Fuel-Consumption and Travel-Time of CAVs for Cooperative Intersection Crossing,10.1109/tiv.2022.3158887,2023,excluded
+Control System for Low-cost Autonomous Vehicle Backstepping Control and Extended State Observer,10.1109/icarm58088.2023.10218838,2023,excluded
+Metamorphic Testing of Advanced Driver-Assistance Systems: Implementing Euro NCAP Standards on OpenStreetMap,10.1109/met59151.2023.00008,2023,excluded
+Determining the Validity of Simulation Models for the Verification of Automated Driving Systems,10.1109/access.2023.3316354,2023,excluded
+Federated Learning on the Road Autonomous Controller Design for Connected and Autonomous Vehicles,10.1109/twc.2022.3183996,2022,excluded
+Safety Virtual-Reality Evaluation as a Service for Intelligent Electronic AVs: An Edge-Cloud Consumer-Customized Approach,10.1109/icce56470.2023.10043478,2023,excluded
+Haptic Assistive Control with Learning-Based Driver Intent Recognition for Semi-Autonomous Vehicles,10.1109/tiv.2021.3137805,2023,excluded
+Learn to See Fast: Lessons Learned From Autonomous Racing on How to Develop Perception Systems,10.1109/access.2023.3272750,2023,survey
+Real-time Video Frame De-raining using Disentangled Generative Models,10.1109/sm57895.2023.10112450,2023,excluded
+PlatoonSAFE: An Integrated Simulation Tool for Evaluating Platoon Safety,10.1109/ojits.2023.3271608,2023,excluded
+Fleet in the Loop: An Open Source approach for design and test of resilient vehicle architectures,10.1109/isads56919.2023.10092108,2023,excluded
+Research on automatic parking assistant system based on path planning,10.1109/ictis60134.2023.10243668,2023,excluded
+NMPC-Based Path Tracking Control Strategy for Autonomous Vehicles With Stable Limit Handling,10.1109/tvt.2022.3196315,2022,excluded
+Learning Pedestrian Actions to Ensure Safe Autonomous Driving,10.1109/iv55152.2023.10186530,2023,excluded
+Closed-Loop Simulation Test Method for Autonomous Vehicles Based on Adversarial Scenarios,10.1109/icma57826.2023.10215980,2023,excluded
+Design of Fully Autonomous Vehicles using Deep Learning in an Open World Simulation,10.1109/incet57972.2023.10169908,2023,excluded
+Generic Motion Primitives-based Safe Motion Planner under Uncertainty for Autonomous Navigation in Cluttered Environments,10.1109/icat57854.2023.10171318,2023,excluded
+Live Virtual Constructive Environment for Assuring the Safety and Security of Complex Autonomous Vehicles,10.1109/icaa58325.2023.00015,2023,excluded
+Procedural Generation of Complex Roundabouts for Autonomous Vehicle Testing,10.1109/iv55152.2023.10186533,2023,excluded
+Enhancing LiDAR Point Cloud Segmentation with Synthetic Data,10.1109/med59994.2023.10185741,2023,excluded
+High-quality rainy image generation method for autonomous driving based on few-shot learning,10.1145/3579654.3579673,2022,excluded
+Integration of Reinforcement Learning Based Behavior Planning With Sampling Based Motion Planning for Automated Driving,10.1109/iv55152.2023.10186736,2023,excluded
+Collaborative Ad Transparency: Promises and Limitations,10.1109/sp46215.2023.10179448,2023,excluded
+DDK: A Deep Koopman Approach for Longitudinal and Lateral Control of Autonomous Ground Vehicles,10.1109/icra48891.2023.10161104,2023,excluded
+RLVNA: a Platform for Experimenting with Virtual Networks Adaptations over Public Testbeds,10.1109/meditcom58224.2023.10266633,2023,excluded
+Measurement and Modeling of Vehicular Millimeter Wave Radar Signal in Expressway Environment,10.23919/eucap57121.2023.10133051,2023,excluded
+Guided Conditional Diffusion for Controllable Traffic Simulation,10.1109/icra48891.2023.10161463,2023,excluded
+HCPerf: Driving Performance-Directed Hierarchical Coordination for Autonomous Vehicles,10.1109/icdcs57875.2023.00086,2023,excluded
+Automated Driving Capabilities using advanced software tools to improve optimization for Autonomous Vehicle in Industry 4.0,10.1109/icaeeci58247.2023.10370968,2023,excluded
+Automotive Digital Twins: A Traversal Algorithm for Virtual Testing of Software over-the-air Updates,10.1109/icm54990.2023.10102057,2023,excluded
+Architecture and Decision-Making for Autonomous Tram Development,10.1109/access.2023.3293659,2023,excluded
+An ML-Aided Reinforcement Learning Approach for Challenging Vehicle Maneuvers,10.1109/tiv.2022.3224656,2023,excluded
+An X-in-the-Loop (XIL) Testing Framework for Validation of Connected and Autonomous Vehicles,10.1109/iavvc57316.2023.10328040,2023,selected_coded
+An approach for Lane Keeping Assist at higher speeds using Deep Neural Network,10.1109/mysurucon59703.2023.10397019,2023,excluded
+Adversarial Driving Behavior Generation Incorporating Human Risk Cognition for Autonomous Vehicle Evaluation,10.1109/iros55552.2023.10341750,2023,excluded
+An Easy-portable Displacement-offset-based Trajectory Prediction Method for Autonomous Vehicles,10.1109/dsa59317.2023.00088,2023,excluded
+Interaction-Aware Merging in Mixed Traffic with Integrated Game-theoretic Predictive Control and Inverse Differential Game,10.1109/iv55152.2023.10186384,2023,excluded
+Hype D-Live: XR Live Music System to Entertain Passengers for Anxiety Reduction in Autonomous Vehicles,10.1109/ismar59233.2023.00029,2023,excluded
+Mixed-Traffic Intersection Management Utilizing Connected and Autonomous Vehicles as Traffic Regulators,10.1145/3566097.3567849,2023,excluded
+RCS Estimation and Synthesis of Typical Traffic Participants,10.1109/piers53385.2021.9694942,2021,excluded
+Long-Horizon Motion Planning for Autonomous Vehicle Parking Incorporating Incomplete Map Information,10.1109/icra48506.2021.9562101,2021,excluded
+Finding Failures in High-Fidelity Simulation using Adaptive Stress Testing and the Backward Algorithm,10.1109/iros51168.2021.9636072,2021,excluded
+Simulating the Autonomous Future: A Look at Virtual Vehicle Environments and How to Validate Simulation Using Public Data Sets,10.1109/msp.2020.2984428,2021,selected_coded
+RICSel21 Data Collection: Attacks in a Virtual Power Network,10.1109/smartgridcomm51999.2021.9632328,2021,excluded
+SceneGen: Learning to Generate Realistic Traffic Scenes,10.1109/cvpr46437.2021.00095,2021,excluded
+Fundamental Design Criteria for Logical Scenarios in Simulation-based Safety Validation of Automated Driving Using Sensor Model Knowledge,10.1109/ivworkshops54471.2021.9669207,2021,excluded
+Fault-Tolerant Trajectory Tracking Control for Autonomous Vehicle Based on Camera and GPS,10.23919/ecc54610.2021.9655065,2021,excluded
+Automatic Virtual Test Technology for Intelligent Driving Systems Considering Both Coverage and Efficiency,10.1109/tvt.2020.3033565,2020,excluded
+CiThruS2: Open-source Photorealistic 3D Framework for Driving and Traffic Simulation in Real Time,10.1109/itsc48978.2021.9564751,2021,excluded
+Application of digital twin and parallel system in automated driving testing,10.1109/dtpi52967.2021.9540143,2021,selected_coded
+ASGARDI: A Novel Frequency-based Automotive Radar Target Simulator,10.1109/icmim48759.2020.9299008,2020,excluded
+Analysis of Edge Detection for Road Lanes through Hardware Implementation,10.1109/icecct52121.2021.9616738,2021,excluded
+Assessing Alternative Approaches for Conveying Automated Vehicle 'Intentions',10.1109/thms.2021.3106892,2021,excluded
+Anytime Game-Theoretic Planning with Active Reasoning About Humans   Latent States for Human-Centered Robots,10.1109/icra48506.2021.9561463,2021,excluded
+Research on Unmanned Surface Vehicles Environment Perception Based on the Fusion of Vision and Lidar,10.1109/access.2021.3057863,2021,excluded
+Alicante-Murcia Freeway Scenario: A High-Accuracy and Large-Scale Traffic Simulation Scenario Generated Using a Novel Traffic Demand Calibration Method in SUMO,10.1109/access.2021.3126269,2021,excluded
+Active Safety System for Semi-Autonomous Teleoperated Vehicles,10.1109/ivworkshops54471.2021.9669239,2021,excluded
+Adaptive Driving Agent: From Driving a Machine to Riding with a Friend,10.1145/3406499.3415067,2020,excluded
+Reliability of GAN Generated Data to Train and Validate Perception Systems for Autonomous Vehicles,10.1109/wacvw52041.2021.00023,2021,selected_coded
+Mixed Reality Environment for Testing Automated Vehicle and Pedestrian Interaction,10.1145/3473682.3481878,2021,selected_coded
+Simulation-based analysis of highway trajectory planning using high-order polynomial for highly automated driving function,10.1109/iceccme52200.2021.9591044,2021,excluded
+Steering Angle Control of SBW System Based on Internal Model Control,10.1109/ccdc52312.2021.9602455,2021,excluded
+The Design of Cyber-Physical Simulation Platform for Steam Turbine,10.1109/icpsasia52756.2021.9621707,2021,excluded
+Synchronous Maneuver Searching and Trajectory Planning for Autonomous Vehicles in Dynamic Traffic Environments,10.1109/mits.2019.2953551,2022,excluded
+Structure-aware roadview synthesis for testing autonomous perception,10.1109/icus50048.2020.9274834,2020,excluded
+Traffic flow management of autonomous vehicles using deep reinforcement learning and smart rerouting,10.1109/access.2021.3063463,2021,excluded
+Trace-Length Independent Runtime Monitoring of Quantitative Policies,10.1109/tdsc.2019.2919693,2021,excluded
+System configuration of Human-in-the-loop Simulation for Level 3 Autonomous Vehicle using IPG CarMaker,10.1109/iotais53735.2021.9628587,2021,excluded
+Validation of a Radar Sensor Model under non-ideal Conditions for Testing Automated Driving Systems,10.1109/ivworkshops54471.2021.9669205,2021,selected_coded
+Autonomous Vehicle Evaluation: A Comprehensive Survey on Modeling and Simulation Approaches,10.1109/access.2021.3125620,2021,survey
+Vision-Based Autonomous Car Racing Using Deep Imitative Reinforcement Learning,10.1109/lra.2021.3097345,2021,excluded
+Virtual testing and policy deployment framework for autonomous navigation of an unmanned ground vehicle using reinforcement learning,10.23919/wac50355.2021.9559586,2021,excluded
+Vibrotactile take-over requests in highly automated driving,10.1109/cvci51460.2020.9338667,2020,survey
+Scenarios for the Use of eVTOLs Using Multiagent SystemsWith Netlogo:Comparison of Parameters and the Impact on UAM,10.1109/dasc52595.2021.9594507,2021,excluded
+Data-Driven Exploration of Lentic Water Bodies with ASVs Guided by Gradient-Free Optimization/Contour Detection Algorithms,10.1109/wsc52266.2021.9715455,2021,excluded
+Efficient LiDAR-based In-water Obstacle Detection and Segmentation by Autonomous Surface Vehicles in Aquatic Environments,10.1109/iros51168.2021.9636028,2021,excluded
+Design and Simulation of an Autonomous Surface Vehicle for Trash Collection using ROS,10.1109/r10-htc53172.2021.9641589,2021,excluded
+Hardware in the Loop Simulator for a Coral Reef Monitoring Robot (C-Bot),10.23919/oceans44145.2021.9705920,2021,excluded
+Automatic Target Recognition for Mine Countermeasure Missions Using Forward-Looking Sonar Data,10.1109/joe.2021.3103269,2022,excluded
+"Multi-Node Vehicular Wireless Channels: Measurements, Large Vehicle Modeling, and Hardware-in-the-Loop Evaluation",10.1109/access.2021.3100676,2021,excluded
+Infrastructure supported automated driving in transition areas - A prototypic implementation,10.1109/cavs51000.2020.9334555,2020,excluded
+Low Cost Platform for Teaching AI Self-Driving Cars Topics for Undergraduate Students in Emerging Countries,10.1109/fie49875.2021.9637352,2021,excluded
+Signal Processing for TDM MIMO FMCW Millimeter-Wave Radar Sensors,10.1109/access.2021.3137387,2021,excluded
+"P2P-Based Identification, Update, and Validation of Road Conditions in Vehicular Networks",10.1109/icecie52348.2021.9664711,2021,excluded
+Infrastructure-Supported Cooperative Automated Driving in Transition Areas,10.1109/vnc51378.2020.9318392,2020,excluded
+Driver-in-the-Loop for computer-vision based ADAS testing,10.1109/niles53778.2021.9600491,2021,excluded
+"Improving knowledge based detection of soft attacks against autonomous vehicles with reputation, trust and data quality service models",10.1109/smds53860.2021.00025,2021,excluded
+Lane Prediction by Autonomous Vehicle in Highway Traffic using Artificial Neural Networks,10.1109/icecct52121.2021.9616881,2021,excluded
+Evaluation of a new Radio Technology and Visible Light Communication for a Platooning Application,10.1109/isncc52172.2021.9615646,2021,excluded
+Moderated Mediation Model of Internet Rumors and Irrational Consumption,10.1109/icemme51517.2020.00095,2020,excluded
+Longitudinal tracking control of vehicle platooning using DDPG-based PID,10.1109/cvci51460.2020.9338516,2020,excluded
+Driver Behavior Modeling Using Game Engine and Real Vehicle: A Learning-Based Approach,10.1109/tiv.2020.2991948,2020,excluded
+Distributed Intersection Conflict Resolution for Multiple Vehicles Considering Longitudinal-Lateral Dynamics,10.1109/tvt.2021.3072629,2021,excluded
+Frequency Modulated Continuous Wave Radar-Based Navigation Algorithm using Artificial Neural Network for Autonomous Driving,10.1109/itsc48978.2021.9564750,2021,excluded
+Simnet: Learning Reactive Self-driving Simulations from Real-world Observations,10.1109/icra48506.2021.9561666,2021,selected_coded
+Pointwise Feasibility of Gaussian Process-based Safety-Critical Control under Model Uncertainty,10.1109/cdc45484.2021.9683743,2021,excluded
+Computer Vision based Autonomous Navigation in Controlled Environment,10.1109/icrai54018.2021.9651414,2021,excluded
+Dynamic Target Simulation System for Automotive Millimeter Wave Radar,10.1109/piers53385.2021.9694845,2021,excluded
+Multimodal Dynamics Modeling for Off-Road Autonomous Vehicles,10.1109/icra48506.2021.9561910,2021,excluded
+Federated Learning for Collaborative Controller Design of Connected and Autonomous Vehicles,10.1109/cdc45484.2021.9683257,2021,excluded
+Multi-Agent Reinforcement Learning-Based Cooperative Beam Selection in mmWave Vehicular Networks,10.1109/mass52906.2021.00069,2021,excluded
+DeepSIL: A Software-in-the-Loop Framework for Evaluating Motion Planning Schemes Using Multiple Trajectory Prediction Networks,10.1109/iros51168.2021.9636423,2021,excluded
+Real-Time Vehicular Wireless System-Level Simulation,10.1109/access.2021.3055978,2021,excluded
+Context and Orientation Aware Path Tracking,10.1109/iros51168.2021.9635922,2021,excluded
+Collision Risk Assessment and Obstacle Avoidance Control for Autonomous Sailing Robots,10.1109/icra48506.2021.9560859,2021,excluded
+Parameterized Energy-Optimal Regenerative Braking Strategy for Connected and Autonomous Electrified Vehicles: A Real-Time Dynamic Programming Approach,10.1109/access.2021.3098807,2021,excluded
+Internal Model-Based Lateral and Longitudinal Control for Autonomous Electric Vehicles,10.1109/mmar49549.2021.9528430,2021,excluded
+Deep reinforcement learning based control algorithms: Training and validation using the ROS framework in CARLA simulator for self-driving applications,10.1109/iv48863.2021.9575616,2021,excluded
+Digital Twins Are Not Monozygotic - Cross-Replicating ADAS Testing in Two Industry-Grade Automotive Simulators,10.1109/icst49551.2021.00050,2021,excluded
+Automated Driving in Complex Real-World Scenarios using a Scalable Risk-Based Behavior Generation Framework,10.1109/itsc48978.2021.9564440,2021,excluded
+Black-Box Testing for Security-Informed Safety of Automated Driving Systems,10.1109/vtc2021-spring51267.2021.9448691,2021,excluded
+Automatic Generation of Critical Test Cases for the Development of Highly Automated Driving Functions,10.1109/vtc2021-spring51267.2021.9448686,2021,excluded
+Benefit of smart infrastructure on urban automated driving - Using an AV testing framework,10.1109/iv48863.2021.9575651,2021,excluded
+Calibration and Assessment of Urban Microscopic Traffic Simulation as an Environment for Testing of Automated Driving,10.1109/itsc48978.2021.9564743,2021,selected_coded
+Analysis and Design of Drivetrain Control for the AEV with Network-Induced Compounding-Construction Loop Delays,10.1109/tvt.2021.3077355,2021,excluded
+Detecting Generalized Replay Attacks via Time-Varying Dynamic Watermarking,10.1109/tac.2020.3022756,2021,excluded
+Analyzing real-world accidents for test scenario generation for automated vehicles,10.1109/iv48863.2021.9576007,2021,excluded
+An Improved PBFT-based Consensus for Securing Traffic Messages in VANETs,10.1109/icics52457.2021.9464606,2021,excluded
+An Incentive-based Mechanism for Volunteer Computing Using Blockchain,10.1145/3419104,2021,excluded
+ADAS-RL: Adaptive Vector Scaling Reinforcement Learning for Human-in-the-Loop Lane Departure Warning,10.1145/3458648.3460008,2021,excluded
+Algebraic General Trajectory Formula for Semitrailer Truck Vehicles,10.1109/tase.2020.3043820,2021,excluded
+Active machine learning to test autonomous driving,10.1109/icstw52544.2021.00055,2021,excluded
+Mathematical Definitions of Scene and Scenario for Analysis of Automated Driving Systems in Mixed-Traffic Simulations,10.1109/tiv.2020.3031981,2021,excluded
+Mixed Reality Environment for Complex Scenario Testing,10.1145/3473856.3474034,2021,selected_coded
+SwiVR-car-seat: Exploring vehicle motion effects on interaction quality in virtual reality automated driving using a motorized swivel seat,10.1145/3494968,2021,excluded
+Virtual Fluid-Flow-Model-Based Lane-Keeping Integrated with Collision Avoidance Control System Design for Autonomous Vehicles,10.1109/tits.2020.2990211,2021,excluded
+Vehicle Motion Prediction at Intersections Based on the Turning Intention and Prior Trajectories Model,10.1109/jas.2021.1003952,2021,excluded
+Visual Navigation in Real-World Indoor Environments Using End-to-End Deep Reinforcement Learning,10.1109/lra.2021.3068106,2021,excluded
+ViSTA: A Framework for Virtual Scenario-based Testing of Autonomous Vehicles,10.1109/aitest52744.2021.00035,2021,selected_coded
+Adaptive Robust Finite-Time Nonlinear Control of a Typical Autonomous Underwater Vehicle with Saturated Inputs and Uncertainties,10.1109/tmech.2020.3041613,2021,excluded
+Motion Analysis of an Autonomous Underwater Vehicle Tethered with an Optical Fiber for Real-Time Surveillance,10.1109/joe.2020.2986876,2021,excluded
+Modeling and Validation of Real Time Kinematic Technique in Autonomous Driving Simulator,10.1109/elconrus51938.2021.9396354,2021,excluded
+Combined Hierarchical Learning Framework for Personalized Automatic Lane-Changing,10.1109/tits.2020.2990787,2021,excluded
+FaiR-IoT: Fairness-aware Human-in-the-Loop Reinforcement Learning for Harnessing Human Variability in Personalized IoT,10.1145/3450268.3453525,2021,excluded
+NFV-Enabled IoT Service Provisioning in Mobile Edge Clouds,10.1109/tmc.2020.2972530,2021,excluded
+Modeling Perception Errors of Automated Vehicles,10.1109/vtc2021-spring51267.2021.9448823,2021,excluded
+Novel Markov Chain Based URLLC Link Adaptation Method for 5G Vehicular Networking,10.1109/tvt.2021.3122117,2021,excluded
+Learn collision-free self-driving skills at urban intersections with model-based reinforcement learning,10.1109/itsc48978.2021.9564880,2021,excluded
+Hybrid Sensing Data Fusion of Cooperative Perception for Autonomous Driving with Augmented Vehicular Reality,10.1109/jsyst.2020.3007202,2021,excluded
+On the Stability and Robustness of Hierarchical Vehicle Lateral Control with Inverse/Forward Dynamics Quasi-Cancellation,10.1109/tvt.2019.2941379,2019,excluded
+Scenario test system for V2X applications based on cooperative system,10.1109/dcabes48411.2019.00017,2019,excluded
+Optimizing coverage of simulated driving scenarios for the autonomous vehicle,10.1109/iccve45908.2019.8965211,2019,excluded
+Model-Based Resource Analysis and Synthesis of Service-Oriented Automotive Software Architectures,10.1109/models.2019.000-8,2019,excluded
+End-to-End Xception Model Implementation on Carla Self Driving Car in Moderate Dense Environment,10.1145/3375959.3375969,2019,excluded
+Hardware-In-The-Loop Testing of Connected and Automated Vehicle Applications: A Use Case for Cooperative Adaptive Cruise Control,10.1109/itsc.2018.8569753,2018,excluded
+Dynamics platooning model and protocols for self-driving vehicles,10.1109/ivs.2019.8813864,2019,excluded
+Experimental Validation of Distributed Optimal Vehicle Coordination,10.23919/ecc.2018.8550569,2018,excluded
+Neural networks for end-to-end refinement of simulated sensor data for automotive applications,10.1109/syscon.2019.8836918,2019,selected_coded
+Phenomenological modeling of millimeter-wave automotive radar,10.23919/ursiap-rasc.2019.8738137,2019,excluded
+Collaborative localization for occluded objects in connected vehicular platform,10.1109/vtcfall.2019.8891157,2019,excluded
+LIDAR Extended Object Tracking of a Maritime Vessel Using an Ellipsoidal Contour Model,10.1109/sdf.2018.8547047,2018,excluded
+Proof of concept for Scenario-in-the-Loop (SciL) testing for autonomous vehicle technology,10.1109/iccve45908.2019.8965086,2019,selected_coded
+Improvement of lane keeping assistance ADAS function utilizing a kalman filter prediction of delayed position states,10.1109/iccve45908.2019.8964916,2019,excluded
+Safety-Critical Control for Non-affine Nonlinear Systems with Application on Autonomous Vehicle,10.1109/cdc40024.2019.9029446,2019,excluded
+Learning Highway Ramp Merging Via Reinforcement Learning with Temporally-Extended Actions,10.1109/iv47402.2020.9304841,2020,excluded
+Domain randomization and pyramid consistency: Simulation-to-real generalization without accessing target domain data,10.1109/iccv.2019.00219,2019,excluded
+Real-time data-driven estimation of radar cross-section of vehicles,10.1109/sii46433.2020.9026212,2020,excluded
+Hardware-in-the-Loop Autonomous Driving Simulation without Real-Time Constraints,10.1109/tiv.2019.2919457,2019,selected_coded
+Clock synchronization in context of the distributed co-simulation protocol,10.1109/iccve45908.2019.8964848,2019,excluded
+Beyond content analysis: Detecting targeted ads via distributed counting,10.1145/3359989.3365428,2019,excluded
+Autonomous Car Racing in Simulation Environment Using Deep Reinforcement Learning,10.1109/asyu48272.2019.8946332,2019,excluded
+BARK: Open behavior benchmarking in multi-agent environments,10.1109/iros45743.2020.9341222,2020,excluded
+An Improved Moving Observer Method for Traffic Flow Estimation at Signalized Intersections,10.1109/iv47402.2020.9304762,2020,confirmed_not_coded
+Development and Application of Unmanned Virtual Simulation HIL Testing Platform,10.1109/cvci47823.2019.8951614,2019,excluded
+Adaptive Potential Field-Based Path Planning for Complex Autonomous Driving Scenarios,10.1109/access.2020.3044909,2020,excluded
+Agent Prioritization for Autonomous Navigation,10.1109/iros40897.2019.8967743,2019,excluded
+Adaptive Stress Testing with Reward Augmentation for Autonomous Vehicle Validatio,10.1109/itsc.2019.8917242,2019,excluded
+An Enhanced SqueezeNet Based Network for Real-Time Road-Object Segmentation,10.1109/ssci44817.2019.9002818,2019,excluded
+MAXIM: Mixed-reality automotive driving XIMulation,10.1109/ismar-adjunct.2019.00124,2019,selected_coded
+Mixed Test Environment-based Vehicle-in-the-loop Validation - A New Testing Approach for Autonomous Vehicles,10.1109/iv47402.2020.9304658,2020,selected_coded
+Synthetic examples improve generalization for rare classes,10.1109/wacv45572.2020.9093570,2020,excluded
+Traffic Signs Detection and Recognition System using Deep Learning,10.1109/icicis46948.2019.9014763,2019,excluded
+Survey on Scenario-Based Safety Assessment of Automated Vehicles,10.1109/access.2020.2993730,2020,survey
+Validation of a Real-Time Capable Multibody Vehicle Dynamics Formulation for Automotive Testing Frameworks Based on Simulation,10.1109/access.2020.3040232,2020,selected_coded
+"Virtual Target-Based Overtaking Decision, Motion Planning, and Control of Autonomous Vehicles",10.1109/access.2020.2980391,2020,excluded
+Validation of a virtual test environment for C2X communication under radio jamming conditions,10.1109/iccve45908.2019.8964938,2019,excluded
+Visual-based Autonomous Driving Deployment from a Stochastic and Uncertainty-aware Perspective,10.1109/iros40897.2019.8968307,2019,excluded
+Validation Strategy for Radar-Based Assistance Systems under the Influence of Interference,,2020,excluded
+Virtual and physical testing of advanced driver assistance systems with soft targets,10.1109/ent47717.2019.9030527,2019,excluded
+ADS-B Based Wind Speed Vector Inversion Algorithm,10.1109/access.2020.3014249,2020,excluded
+Particle swarm optimization algorithm implementation for multiple drones control in continuous task simulation,10.1109/lars-sbr-wre48964.2019.00070,2019,excluded
+Navigation in the Presence of Obstacles for an Agile Autonomous Underwater Vehicle,10.1109/icra40945.2020.9197558,2020,excluded
+UW-MARL: Multi-agent reinforcement learning for underwater adaptive sampling using autonomous vehicles,10.1145/3366486.3366533,2019,excluded
+HIL based solution for ADAS software development and verification,10.1109/icce-berlin47944.2019.8966201,2019,excluded
+Development and Validation of ADAS Perception Application in ROS Environment Integrated with CARLA Simulator,10.1109/telfor48224.2019.8971063,2019,excluded
+Securing ADS-B with multi-point distance-bounding for UAV collision avoidance,10.1109/mass.2019.00026,2019,excluded
+Reliable Fail-Operational Automotive E/E-Architectures by Dynamic Redundancy and Reconfiguration,10.1109/socc46988.2019.1570547977,2019,excluded
+Empirical testing of automotive cyber-physical systems with credible software-in-the-loop environments,10.1109/iccve45908.2019.8965169,2019,excluded
+Reinforcement Learning Model with a Reward Function Based on Human Driving Characteristics,10.1109/cis.2019.00055,2019,excluded
+Hardware-in-the-loop platform for testing autonomous vehicle control algorithms,10.1109/dese.2019.00168,2019,selected_coded
+Environment Generation from Real Map to Investigate Path Planning and Obstacle Avoidance Algorithm for Electric Vehicle,10.1109/ri2c48728.2019.8999876,2019,excluded
+Evolution of a Reliable and Extensible High-Level Control System for an Autonomous Car,10.1109/tiv.2019.2919459,2019,excluded
+Methods for improving the accuracy of the virtual assessment of autonomous driving,10.1109/iccve45908.2019.8965040,2019,excluded
+For a better (simulated) world: Considerations for VR in external communication research,10.1145/3349263.3351523,2019,excluded
+Intelligent Fault Diagnosis of Air Brake System in Heavy Commercial Road Vehicles,10.1109/comsnets48256.2020.9027307,2020,excluded
+Fast virtual prototyping of cyber-physical systems using SystemC and FMI: ADAS use case,10.1145/3339985.3358488,2019,excluded
+Combining Deep Gaussian Process and Rule-Based Method for Decision-Making in Self-Driving Simulation with Small Data,10.1109/cis.2019.00063,2019,excluded
+Optimal control of lane keeping system using simulated annealing and linear quadratic regulator,10.1109/icenco48310.2019.9027294,2019,excluded
+"Hierarchical State Space Checks for Errors in Sensors, Actuators and Control of Nonlinear Systems: Diagnosis and Compensation",10.1109/ats47505.2019.00026,2019,excluded
+DigiCAV project: Exploring a test-driven approach in the development of connected and autonomous vehicles,10.1109/iccve45908.2019.8965026,2019,excluded
+Development of a Unified Lane-Keeping and Collision Avoidance System for Semi-Trailer Truck,10.1109/access.2020.3016497,2020,excluded
+Comparing Offline and Online Testing of Deep Neural Networks: An Autonomous Car Case Study,10.1109/icst46399.2020.00019,2020,selected_coded
+Development of Automotive Video Logger HIL Device for ADAS/AD Algorithms Development and Testing,10.1109/zinc50678.2020.9161812,2020,excluded
+Co-simulation Platform for Developing InfoRich Energy-Efficient Connected and Automated Vehicles,10.1109/iv47402.2020.9304664,2020,excluded
+Extensible Highway Simulation Environment Supporting the Research of Situation Analysis and Behaviour Planning for Autonomous Vehicles,10.1109/cinti-macro49179.2019.9105222,2019,excluded
+FlightGoggles: Photorealistic Sensor Simulation for Perception-driven Robotics using Photogrammetry and Virtual Reality,10.1109/iros40897.2019.8968116,2019,excluded
+Lane Change Maneuver based on Bezier Curve providing Comfort Experience for Autonomous Vehicle Users,10.1109/itsc.2019.8916845,2019,excluded
+Motion prediction for teleoperating autonomous vehicles using a PID control model,10.1109/anzcc47194.2019.8945623,2019,excluded
+Design and implementation of secret key agreement for platoon-based vehicular cyber-physical systems,10.1145/3365996,2019,excluded
+Hybrid A∗-based Curvature Continuous Path Planning in Complex Dynamic Environments,10.1109/itsc.2019.8916953,2019,excluded
+Hybrid Physics-Based and Data-Driven Approach to Estimate the Radar Cross-Section of Vehicles,10.1109/itsc.2019.8917492,2019,excluded
+Semantic Classification of Pedestrian Traffic Scenarios for the Validation of Automated Driving,10.1109/itsc.2019.8917485,2019,excluded
+Development of a Co-Simulation Framework for Systematic Generation of Scenarios for Testing and Validation of Automated Driving Systems,10.1109/itsc.2019.8916839,2019,selected_coded
+Hardware in the Loop Test Using Infrastructure Based Emergency Trajectories for Connected Automated Driving,10.1109/iv47402.2020.9304757,2020,excluded
+Vision-based Fractional Order Sliding Mode Control for Autonomous Vehicle Tracking by a Quadrotor UAV,10.1109/ro-man46459.2019.8956317,2019,excluded
+Historical Improvement Optimal Motion Planning with Model Predictive Trajectory Optimization for On-road Autonomous Vehicle,10.1109/iecon.2019.8927189,2019,excluded
+Performance bounds for waveguide-invariant-based receiver localization,10.23919/oceans40490.2019.8962597,2019,excluded
+PNPNet: End-to-end perception and prediction with tracking in the loop,10.1109/cvpr42600.2020.01157,2020,excluded
+Not-at-Fault Driving in Traffic: A Reachability-Based Approach,10.1109/itsc.2019.8917052,2019,excluded
+Safety Study of Closely Spaced Parallel Operations Utilizing Paired Approach,10.1109/dasc43569.2019.9081791,2019,excluded
+Context and Intention Aware Planning for Urban Driving,10.1109/iros40897.2019.8967873,2019,excluded
+Real-time Ecological Velocity Planning for Plug-in Hybrid Vehicles with Partial Communication to Traffic Lights,10.1109/cdc40024.2019.9030166,2019,excluded
+Identification of critical ride comfort sections by use of a validated vehicle model and Monte Carlo simulations,10.1109/itsc.2019.8917401,2019,excluded
+Interpretable Driver Models Discovery in Data,10.1109/itsc45102.2020.9294406,2020,excluded
+Re-Using Concrete Test Scenarios Generally Is a Bad Idea,10.1109/iv47402.2020.9304678,2020,excluded
+Formal Scenario-Based Testing of Autonomous Vehicles: From Simulation to the Real World,10.1109/itsc45102.2020.9294368,2020,selected_coded
+Do cut-ins matter: Assessing the impact of lane changing and string stability on traffic flow,10.1109/itsc45102.2020.9294587,2020,excluded
+Enabling DSRC and c-V2X integrated hybrid vehicular networks: Architecture and protocol,10.1109/access.2020.3027074,2020,excluded
+Autonomous Learning Intelligent Vehicles Engineering: ALIVE 1.0,10.1109/isncc49221.2020.9297258,2020,excluded
+Attention-Based Activation Pruning to Reduce Data Movement in Real-Time AI: A Case-Study on Local Motion Planning in Autonomous Vehicles,10.1109/jetcas.2020.3015889,2020,excluded
+RiderS: Towards a Privacy-Aware Decentralized Self-Driving Ride-Sharing Ecosystem,10.1109/dapps49028.2020.00004,2020,excluded
+Sim-to-real reinforcement learning applied to end-to-end vehicle control,10.1109/ismcr51255.2020.9263751,2020,excluded
+Pushing ROS towards the Dark Side: A ROS-based Co-Simulation Architecture for Mixed-Reality Test Systems for Autonomous Vehicles,10.1109/mfi49285.2020.9235238,2020,excluded
+Simulation to Real Domain Adaptation for Lane Segmentation,10.1109/ismcr51255.2020.9263406,2020,selected_coded
+SUMMIT: A Simulator for Urban Driving in Massive Mixed Traffic,10.1109/icra40945.2020.9197228,2020,excluded
+Stabilization Approaches for Reinforcement Learning-Based End-to-End Autonomous Driving,10.1109/tvt.2020.2979493,2020,excluded
+Trajectory Based Motion Planning for On-Ramp Merging-Situations Considering Extended Evaluation Criteria,10.1109/iccp51029.2020.9266280,2020,excluded
+"SynChrono: A scalable, physics-based simulation platform for testing groups of autonomous vehicles and/or robots",10.1109/iros45743.2020.9341585,2020,excluded
+Test Method for Measuring the Simulation-to-Reality Gap of Camera-based Object Detection Algorithms for Autonomous Driving,10.1109/iv47402.2020.9304567,2020,selected_coded
+Autonomous Driving System : Model Based Safety Analysis,10.1109/dsn-w.2018.00012,2018,excluded
+Automatic Generation of Safety-Critical Test Scenarios for Collision Avoidance of Road Vehicles,10.1109/ivs.2018.8500374,2018,excluded
+Autonomous Vehicle Testing and Validation Platform: Integrated Simulation System with Hardware in the Loop∗,10.1109/ivs.2018.8500461,2018,excluded
+Application and simulation of cooperative driving sense systems using PreScan software,10.1109/icice.2017.8479296,2018,excluded
+Autonomous Vehicle Control Through the Dynamics and Controller Learning,10.1109/tvt.2018.2819806,2018,excluded
+Autonomous Vehicle Path Tracking Using Nonlinear Steering Control and Input-Output State Feedback Linearization.,10.1109/cistem.2018.8613365,2018,excluded
+Analysis of Real World Sensor Behavior for Rising Fidelity of Physically Based Lidar Sensor Models,10.1109/ivs.2018.8500511,2018,selected_coded
+Academic/industry educational lab for simulation-based test \& evaluation of autonomous vehicles,10.1109/wsc.2018.8632548,2018,excluded
+Rendering Physically Correct Raindrops on Windshields for Robustness Verification of Camera-based Object Recognition,10.1109/ivs.2018.8500494,2018,selected_coded
+Simulations and Self-Driving Cars: A Study of Trust and Consequences,10.1145/3173386.3176987,2018,excluded
+Smooth Behavioral Estimation for Ramp Merging Control in Autonomous Driving,10.1109/ivs.2018.8500576,2018,excluded
+Spatio-temporal deep learning for robotic visuomotor control,10.1109/iccar.2018.8384651,2018,excluded
+Stochastic Model-Predictive Control for Lane Change Decision of Automated Driving Vehicles,10.1109/tvt.2018.2804891,2018,excluded
+The sleepwalker framework: Verification and validation of autonomous vehicles by mixed reality LiDAR stimulation,10.1109/simpar.2018.8376285,2018,selected_coded
+Toward Efficient Content Delivery for Automated Driving Services: An Edge Computing Solution,10.1109/mnet.2018.1700105,2018,excluded
+"X-in-the-loop advanced driving simulation platform for the design,development, testing and validation of ADAS",10.1109/ivs.2018.8500409,2018,excluded
+Multi-robot Dubins Coverage with Autonomous Surface Vehicles,10.1109/icra.2018.8460661,2018,excluded
+Heterogeneous Multi-Robot System for Exploration and Strategic Water Sampling,10.1109/icra.2018.8460759,2018,excluded
+Evo-ROS: Integrating evolution and the robot operating system,10.1145/3205651.3208269,2018,excluded
+Development of Sensor Fusion Based ADAS Modules in Virtual Environments,10.1109/zinc.2018.8448849,2018,excluded
+Deep Predictive Coding Neural Network for RF Anomaly Detection in Wireless Networks,10.1109/iccw.2018.8403654,2018,excluded
+Robust Virtual Sensing for Vehicle Agile Manoeuvring: A Tyre-Model-Less Approach,10.1109/tvt.2017.2767942,2018,excluded
+Longitudinal Model Predictive Control with comfortable speed planner,10.1109/icarsc.2018.8374161,2018,excluded
+LED visualizations for drivers' attention: An exploratory study on experience and associated information contents,10.1145/3239092.3265966,2018,excluded
+Incremental Reliability Modeling Framework to Optimize Vehicle's Validation Tests,10.1109/ram.2018.8463105,2018,excluded
+Long-Term Inertial Navigation Aided by Dynamics of Flow Field Features,10.1109/joe.2017.2766900,2018,excluded
+Pedestrian in the loop: An approach using flying drones,10.1109/i2mtc.2018.8409536,2018,excluded
+EmuLab of Security Credential Management System (SCMS) for Vehicular Communications,10.1109/vtcfall.2018.8690778,2018,excluded
+Multiple Controller Switching Concept for Human-Machine Shared Control of Lane Keeping Assist Systems,10.1109/smc.2018.00466,2018,excluded
+Design and implementation of autonomous parallel and vertical parking mobile vehicle,10.1109/ceit.2018.8751778,2018,excluded
+Requirements engineering for consensus-oriented technical specifications,10.1109/re.2018.00039,2018,excluded
+Hybrid Trajectory Planning for Autonomous Driving in Highly Constrained Environments,10.1109/access.2018.2845448,2018,excluded
+Outcome Oriented Evaluation of Autonomous Driving Functions,10.1109/cdc.2018.8619705,2018,excluded
+Parametrized end-to-end scenario generation architecture for autonomous vehicles,10.1109/ceit.2018.8751872,2018,excluded
+Non-Linear Model Predictive Anti-Jerk Cruise Control for Electric Vehicles with Slip-Based Constraints,10.23919/acc.2018.8431389,2018,excluded
+Demo abstract: Integrating a driving simulator with city-scale VANET simulation for the development of next generation ADAS systems,10.1109/infcomw.2018.8406997,2018,excluded
+"Parameter Space and Model Regulation Based Robust, Scalable and Replicable Lateral Control Design for Autonomous Vehicles",10.1109/cdc.2018.8619749,2018,selected_coded
+Data-driven model predictive control of autonomous mobility-on-demand systems,10.1109/icra.2018.8460966,2018,excluded
+Development of BP Neural Network PID Controller and Its Application on Autonomous Emergency Braking System,10.1109/ivs.2018.8500577,2018,excluded
+Heterogeneous lte/dsrc approach to support real-Time vehicular communications,10.1109/icait.2018.8686612,2018,excluded
+Multirate lane-keeping system with kinematic vehicle model,10.1109/tvt.2018.2864329,2018,excluded
+Evaluation of lightning current distribution on macro base station telecom sites,10.1109/intlec.2018.8612404,2018,excluded
+Local path planning of autonomous vehicles based on A                         ∗                          algorithm with equal-step sampling,10.23919/chicc.2018.8482915,2018,excluded
+Simulation framework for improved UI/UX of AR-HUD display,10.1109/icce.2018.8326307,2018,excluded
+Modeling of the Multi-domain Steering System with Hybrid Dynamics for an Over-actuated Autonomous Vehicle,10.1109/robio.2018.8665185,2018,excluded
+End-to-End Steering Controller with CNN-based Closed-loop Feedback for Autonomous Vehicles,10.1109/ivs.2018.8500440,2018,excluded
+Estimating the Uniqueness of Test Scenarios derived from Recorded Real-World-Driving-Data using Autoencoders,10.1109/ivs.2018.8500464,2018,excluded
+Automated function assessment in driving scenarios,10.1109/icst.2019.00050,2019,excluded
+Beyond-design-basis evaluation of advanced driver assistance systems,10.1109/ivs.2019.8813893,2019,excluded
+Automatically testing self-driving cars with search-based procedural content generation,10.1145/3293882.3330566,2019,excluded
+Benchmarking and functional decomposition of automotive lidar sensor models,10.1109/ivs.2019.8814081,2019,selected_coded
+Analyzing and Enhancing the Security of Ultrasonic Sensors for Autonomous Vehicles,10.1109/jiot.2018.2867917,2018,excluded
+Anticipatory and compensatory e-assistance for haptic shared control of the steering wheel,10.23919/ecc.2019.8796050,2019,excluded
+An Advanced Cooperative Positioning Algorithm Based on Improved Factor Graph and Sum-Product Theory for Multiple AUVs,10.1109/access.2019.2918586,2019,excluded
+Smart Longitudinal Velocity Control of Autonomous Vehicles in Interactions with Distracted Human-Driven Vehicles,10.1109/access.2019.2954863,2019,excluded
+Smooth Obstacle Avoidance Path Planning for Autonomous Vehicles,10.1109/icves.2018.8519525,2018,excluded
+Software-in-the-Loop Modeling and Simulation Framework for Autonomous Vehicles,10.1109/eit.2018.8500101,2018,excluded
+Stochastic Model Predictive Control for Autonomous Mobility on Demand,10.1109/itsc.2018.8569459,2018,excluded
+Teaching internet of things (IoT) literacy: A systems engineering approach,10.1109/icse-seet.2019.00014,2019,excluded
+Tactical level decision-making for platoons of autonomous vehicles using auction mechanisms,10.1109/ivs.2019.8814122,2019,excluded
+Towards Criticality Characterization of Situational Space,10.1109/itsc.2018.8569505,2018,excluded
+Traffic Participants in the Loop: A Mixed Reality-Based Interaction Testbed for the Verification and Validation of Autonomous Vehicles,10.1109/itsc.2018.8569226,2018,selected_coded
+Using Time-to-React based on Naturalistic Traffic Object Behavior for Scenario-Based Risk Assessment of Automated Driving,10.1109/ivs.2018.8500624,2018,excluded
+Vehicular Networks Simulation with Realistic Physics,10.1109/access.2019.2908651,2019,excluded
+Youla-Kucera Based Lateral Controller for Autonomous Vehicle,10.1109/itsc.2018.8569779,2018,excluded
+Virtual test environment for efficient verification of software updates for variant-rich automotive systems,10.1109/syscon.2019.8836898,2019,excluded
+Vehicle-In-the-Loop Test Environment for Autonomous Driving with Microscopic Traffic Simulation,10.1109/icves.2018.8519486,2018,selected_coded
+Validation of perception and decision-making systems for autonomous driving via statistical model checking,10.1109/ivs.2019.8813793,2019,excluded
+Genie: An open box counterfactual policy estimator for optimizing sponsored search marketplace,10.1145/3289600.3290969,2019,excluded
+Learned Anticipation Strategy on Complex Behaviors and as an Approach to Generalization Behavior for the Coordination of an AUV Fleet,10.1109/oceans.2018.8604686,2019,excluded
+"IEEE Conference on Intelligent Transportation Systems, Proceedings, ITSC",,2018,excluded
+International Conference on Applied Electronics,,2019,excluded
+Navigation System for MACÁBOT an Autonomous Surface Vehicles Using GPS Aided Strapdown Inertial Navigation System,10.1109/tla.2019.8896824,2019,excluded
+Embodiment of an Aquatic Surface Vehicle in an Omnidirectional Ground Robot,10.1109/icmech.2019.8722901,2019,excluded
+Autonomous exploration of complex underwater environments using a probabilistic next-best-view planner,10.1109/lra.2019.2896759,2019,excluded
+Online 3D Underwater Exploration and Coverage,10.1109/auv.2018.8729736,2018,excluded
+End-to-end deep learning for robotic following,10.1145/3185066.3185084,2018,excluded
+Predictive Cruise Control Using High-Definition Map and Real Vehicle Implementation,10.1109/tvt.2018.2871202,2018,excluded
+Robust resource allocation using edge computing for vehicle to infrastructure (v2i) networks,10.1109/cfec.2019.8733151,2019,excluded
+Comparison of path following controllers for autonomous vehicles,10.1109/sami.2019.8782719,2019,excluded
+Enabling Safe Autonomous Vehicles by Advanced mm-Wave Radar Simulations,10.1109/mwsym.2019.8700843,2019,excluded
+Next-generation interchange control based on centralized management of connected and autonomous vehicles,10.1109/access.2019.2924865,2019,excluded
+Smooth 3D path planning for non-holonomic UAVs,10.1109/icosc.2018.8587835,2018,excluded
+Generating effective test cases for self-driving cars from police reports,10.1145/3338906.3338942,2019,selected_coded
+Distributed Platoon Control under Topologies with Complex Eigenvalues: Stability Analysis and Controller Synthesis,10.1109/tcst.2017.2768041,2019,excluded
+"Design, Modeling and Control of a Micro AUV",10.1109/oceans.2018.8604727,2019,excluded
+Data-Driven Shared Steering Control of Semi-Autonomous Vehicles,10.1109/thms.2019.2900409,2019,excluded
+Safety Verification of ADAS by Collision-free Boundary Searching of A Parameterized Catalog,10.23919/acc.2018.8431291,2018,excluded
+Robust Vehicle Infrastructure Cooperative Localization in Presence of Clutter,10.23919/icif.2018.8455268,2018,excluded
+Simulating object lists using neural networks in automotive radar,10.1109/eurosime.2018.8369885,2018,excluded
+Sensor fusion and map establishment for autonomous guided vehicle,10.1109/iciea.2019.8834021,2019,excluded
+GeoScenario: An open DSL for autonomous driving scenario representation,10.1109/ivs.2019.8814107,2019,excluded
+Modeling of driver steering behavior for the control design of automated vehicles,10.1109/cinti.2018.8928231,2018,excluded
+Motion planning framework for autonomous vehicles: A time scaled collision cone interleaved model predictive control approach,10.1109/ivs.2019.8813823,2019,excluded
+Real-time motion control with iterative optimization and robustness analysis for autonomous driving,10.1109/aim.2019.8868413,2019,excluded
+Real-time constrained trajectory planning and vehicle control for proactive autonomous driving with road users,10.23919/ecc.2019.8796099,2019,excluded
+Dynamic Trajectory Planning and Tracking for Autonomous Vehicle with Obstacle Avoidance Based on Model Predictive Control,10.1109/access.2019.2940758,2019,excluded
+In-Vehicle Cognitive Route Decision Using Fuzzy Modeling and Artificial Neural Network,10.1109/access.2019.2895832,2019,excluded
+Distributed Real-Time Traffic Simulation for Autonomous Vehicle Testing in Urban Environments,10.1109/itsc.2018.8569544,2018,excluded
+Force-based heterogeneous traffic simulation for autonomous vehicle testing,10.1109/icra.2019.8794430,2019,excluded
+Bilayer Predictive Power Flow Controller for Bidirectional Operation of Wirelessly Connected Electric Vehicles,10.1109/tia.2019.2908347,2019,excluded
+"AUV path planning, navigation, and control using geophysical data",10.1109/oceanse.2019.8867535,2019,excluded
+Building Trust in Autonomous Vehicles: Role of Virtual Reality Driving Simulators in HMI Design,10.1109/tvt.2019.2933601,2019,excluded
+Characterization of the impact of visual odometry drift on the control of an autonomous vehicle,10.1109/iv47402.2020.9304687,2020,excluded
+Autonomous Car Simulation Using Evolutionary Neural Network Algorithm,10.1109/icamimia47173.2019.9223365,2019,excluded
+Functional Safety Verification for Autonomous UGVs-Methodology Presentation and Implementation on a Full-Scale System,10.1109/tiv.2019.2919460,2019,excluded
+Artificial intelligence for vehicle behavior anticipation: Hybrid approach based on maneuver classification and trajectory prediction,10.1109/access.2020.2982170,2020,excluded
+Algorithm of obstacle avoidance for autonomous surface vehicles based on LIDAR detection,10.1109/itnec.2019.8729203,2019,excluded
+An Evolutionary Approach to the Optimisation of Autonomous Pod Distribution for Application in an Urban Transportation Service,10.1109/icmect.2019.8932138,2019,excluded
+Mixed reality test environment for autonomous cars using Unity 3D and SUMO,10.1109/sami48414.2020.9108745,2020,selected_coded
+Rear-end crash risk of CACC-Manual driven mixed flow considering the degeneration of CACC systems,10.1109/access.2019.2941496,2019,excluded
+Unity based Urban Environment Simulation for Autonomous Vehicle Stereo Vision Evaluation,10.23919/mipro.2019.8756805,2019,excluded
+SPIR: A Secure and Privacy-Preserving Incentive Scheme for Reliable Real-Time Map Updates,10.1109/jiot.2019.2953188,2020,excluded
+The application of virtual logic models to simulate real environment for testing advanced driving-assistance systems,10.1109/mmar.2019.8864634,2019,excluded
+Test Methodology for Vision-Based ADAS Algorithms with an Automotive Camera-in-the-Loop,10.1109/icves.2018.8519598,2018,excluded
+Test your self-driving algorithm: An overview of publicly available driving datasets and virtual testing environments,10.1109/tiv.2018.2886678,2019,survey
+Towards cross-verification and use of simulation in the assessment of automated driving,10.1109/ivs.2019.8814268,2019,selected_coded
+Trajectory Planning and Tracking for Autonomous Vehicle Based on State Lattice and Model Predictive Control,10.1109/mits.2019.2903536,2019,excluded
+Trajectory Tracking Control Algorithm for Autonomous Vehicle Considering Cornering Characteristics,10.1109/access.2020.2982963,2020,excluded
+Validation of Safety Necessities for a Safety-Bag Component in Experimental Autonomous Vehicles,10.1109/edcc.2018.00017,2018,excluded
+Virtual Test Method for Complex and Variant-Rich Automotive Systems,10.1109/icves.2018.8519599,2018,excluded
+Zero-shot Deep Reinforcement Learning Driving Policy Transfer for Autonomous Vehicles based on Robust Control,10.1109/itsc.2018.8569612,2018,excluded
+An air conflict prediction method applied to general aviation,10.1109/iccasit48058.2019.8973140,2019,excluded
+ADS-B transmitter/receiver simulation to decode real aircraft trajectories with software defined radios,10.1109/eaeeie46886.2019.9000454,2019,excluded
+Impact of Autonomous Vehicles in Cities: User Perception,10.1109/scsp.2019.8805717,2019,excluded
+LiDARsim: Realistic LiDAR simulation by leveraging the real world,10.1109/cvpr42600.2020.01118,2020,selected_coded
+Design and test of a path tracking controller to a high capability agricultural vehicle,10.1145/3314493.3314514,2019,excluded
+Real-Time Localization of a Magnetic Anomaly : AA Study of the Effectiveness of a Genetic Algorithm for Implementation on an Autonomous Underwater Vehicle,10.1109/oceans.2018.8604633,2019,excluded
+Riverine Coverage with an Autonomous Surface Vehicle over Known Environments,10.1109/iros40897.2019.8968084,2019,excluded
+Design of controllers applied to autonomous unmanned aerial vehicles using software in the loop,10.1109/carpathiancc.2019.8766036,2019,excluded
+Search-Based Optimal Motion Planning for Automated Driving,10.1109/iros.2018.8593813,2018,excluded
+Simulation framework for cooperative adaptive cruise control with empirical DSRC module,10.1109/iecon.2018.8592909,2018,excluded
+Real-time distance estimation and filtering of vehicle headways for smoothing of traffic waves∗,10.1145/3302509.3314026,2019,excluded
+Driver behavior characteristics identification strategies based on bionic intelligent algorithms,10.1109/thms.2018.2861225,2018,excluded
+Fuzzy PD controller based path tracking for autonomous vehicle under i-VICS,10.1109/ictis.2019.8883832,2019,excluded
+Simulated environment for autonomous driving using ROS based on Mahindra E2O electric car,10.1145/3352593.3352667,2019,excluded
+Evaluation platform of platoon control algorithms in complex communication scenarios,10.1109/vtcspring.2019.8746477,2019,excluded
+Development of Intelligent Riding Comfort Monitoring System for Automated Vehicle : Conceptual structure and experiment design,10.1109/ict-robot.2018.8549892,2018,excluded
+Domain adaptation for vehicle detection from bird's eye view lidar point cloud data,10.1109/iccvw.2019.00404,2019,selected_coded
+Heuristics-based adaptive biased random walk algorithm for chemical source localization using AUVs,10.23919/oceans40490.2019.8962882,2019,excluded
+Demo:Research on test method of autonomous driving based on digital twin,10.1109/vnc48660.2019.9062813,2019,excluded
+Driver lane change intention recognition of intelligent vehicle based on long short-term memory network,10.1109/access.2020.3011550,2020,excluded
+Enhancing Photorealism Enhancement,10.1109/tpami.2022.3166687,2023,snowballing_only
+A Vehicle-in-the-Loop (VIL) verification of an all-autonomous intersection control scheme,10.1016/j.trc.2019.07.027,2019,snowballing_only
+An Indoor Vehicle-in-the-Loop Simulation Platform Testing Method for Autonomous Emergency Braking,,2021,snowballing_only
+How much real data do we actually need: Analyzing object detection performance using synthetic and real data,,2019,snowballing_only
+A Survey on Deep Domain Adaptation for LiDAR Perception,10.1109/ivworkshops54471.2021.9669228,2021,snowballing_only
+Mixing Real and Synthetic Data to Enhance Neural Network Training - A Review of Current Approaches,,2020,snowballing_only
+GENERATING SYNTHETIC TRAINING DATA FOR OBJECT DETECTION USING MULTI-TASK GENERATIVE ADVERSARIAL NETWORKS,10.5194/isprs-annals-v-2-2020-443-2020,2020,snowballing_only
+Reducing the Amount of Real World Data for Object Detector Training with Synthetic Data,,2022,snowballing_only
+Performance of LiDAR object detection deep learning architectures based on artificially generated point cloud data from CARLA simulator,10.1109/mmar.2019.8864642,2019,snowballing_only
+Augmented LiDAR Simulator for Autonomous Driving,10.1109/lra.2020.2969927,2020,snowballing_only
+Multimodal Unsupervised Image-to-Image Translation,,2018,snowballing_only
+Model vs system level testing of autonomous driving systems: a replication and extension study,10.1007/s10664-023-10306-x,2023,selected_coded
